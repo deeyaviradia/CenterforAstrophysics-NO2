@@ -1,0 +1,2389 @@
+{
+  "body": [
+    {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "station": "Plammoodu, Thiruvananthapuram - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_252"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Mandideep",
+      "station": "Sector-D Industrial Area, Mandideep - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1403"
+    },
+    {
+      "state": "Odisha",
+      "city": "Talcher",
+      "station": "Talcher Coalfields,Talcher - OSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1408"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "station": "Chandrapur, Chandrapur - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_271"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "station": "Vasundhara, Ghaziabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_144"
+    },
+    {
+      "state": "Odisha",
+      "city": "Brajrajnagar",
+      "station": "GM Office, Brajrajnagar - OSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1410"
+    },
+    {
+      "state": "Haryana",
+      "city": "Karnal",
+      "station": "Sector-12, Karnal - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5049"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Vasai West, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5102"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Sion, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5119"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Chikkamagaluru",
+      "station": "Kalyana Nagara, Chikkamagaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5265"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "station": "Mahape, Navi Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5114"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "Govt. High School Shikarpur, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5335"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Pali",
+      "station": "Indira Colony Vistar, Pali - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1395"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Alwar",
+      "station": "Moti Doongri, Alwar - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1390"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Vijayawada",
+      "station": "PWD Grounds, Vijayawada - APPCB",
+      "channel": "PM2.5",
+      "station_id": "site_257"
+    },
+    {
+      "state": "Kerala",
+      "city": "Ernakulam",
+      "station": "Kacheripady, Ernakulam - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5272"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Coimbatore",
+      "station": "SIDCO Kurichi, Coimbatore - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5094"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "station": "Ganga Nagar, Meerut - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5258"
+    },
+    {
+      "state": "Haryana",
+      "city": "Jind",
+      "station": "Police Lines, Jind - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5056"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Hebbal, Bengaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1554"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "station": "Indirapuram, Ghaziabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5082"
+    },
+    {
+      "state": "Haryana",
+      "city": "Sirsa",
+      "station": "F-Block, Sirsa - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5051"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Peenya, Bengaluru - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_163"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "SAC ISRO Satellite, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5455"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Gyaspur, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5450"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Kukrail Picnic Spot-1, Lucknow - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5462"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Maihar",
+      "station": "Sahilara, Maihar - KJS Cements",
+      "channel": "PM2.5",
+      "station_id": "site_5068"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Hassan",
+      "station": "B.Katihalli, Hassan - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5448"
+    },
+    {
+      "state": "Haryana",
+      "city": "Faridabad",
+      "station": "Sector 11, Faridabad - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5342"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Bandra Kurla Complex, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5392"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Borivali East, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5400"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Arumbakkam, Chennai - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5361"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Kandivali East, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5412"
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "city": "Srinagar",
+      "station": "Rajbagh, Srinagar - JKSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5424"
+    },
+    {
+      "state": "Assam",
+      "city": "Guwahati",
+      "station": "Pan Bazaar, Guwahati - APCB",
+      "channel": "PM2.5",
+      "station_id": "site_5417"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Alandi, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5405"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Mundka, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1561"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "IGI Airport (T3), Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_106"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Wazirpur, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1434"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "station": "NISE Gwal Pahari, Gurugram - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_5025"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Greater Noida",
+      "station": "Knowledge Park - V, Greater Noida - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5121"
+    },
+    {
+      "state": "Haryana",
+      "city": "Dharuhera",
+      "station": "Municipal Corporation Office, Dharuhera -  HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5044"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Khindipada-Bhandup West, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5397"
+    },
+    {
+      "state": "Bihar",
+      "city": "Aurangabad",
+      "station": "Gurdeo Nagar, Aurangabad - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5544"
+    },
+    {
+      "state": "Bihar",
+      "city": "Saharsa",
+      "station": "Police Line, Saharsa - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5551"
+    },
+    {
+      "state": "Bihar",
+      "city": "Purnia",
+      "station": "Mariam Nagar, Purnia - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5549"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "station": "NSI Kalyanpur, Kanpur - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5474"
+    },
+    {
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "station": "MIT-Daudpur Kothi, Muzaffarpur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5479"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Shahjahan Garden, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5501"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "station": "Employment Office, Moradabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5537"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "station": "Eco Herbal Park, Moradabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5556"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Bandra, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_168"
+    },
+    {
+      "state": "Bihar",
+      "city": "Bihar Sharif",
+      "station": "D M Colony, Bihar Sharif - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5481"
+    },
+    {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "station": "Sector-53, Chandigarh - CPCC",
+      "channel": "PM2.5",
+      "station_id": "site_5582"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5107"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Chandrapur",
+      "station": "MIDC Khutala, Chandrapur - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_295"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Velachery Res. Area, Chennai - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_288"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Rabindra Sarobar, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5126"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "Bollaram Industrial Area, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_199"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Bulandshahr",
+      "station": "Yamunapuram, Bulandshahr - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1542"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "DTU, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_118"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nagpur",
+      "station": "Opp GPO Civil Lines, Nagpur - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_303"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Dwarka-Sector 8, Delhi - DPCC ",
+      "channel": "PM2.5",
+      "station_id": "site_1422"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "station": "Nehru Nagar, Kanpur - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_276"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Najafgarh, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1427"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Maninagar, Ahmedabad - GPCB",
+      "channel": "PM2.5",
+      "station_id": "site_308"
+    },
+    {
+      "state": "Tripura",
+      "city": "Agartala",
+      "station": "Bardowali, Agartala - Tripura SPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5587"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Shadipur, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_113"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Punjabi Bagh, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_125"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Victoria, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_309"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Dewas",
+      "station": "Bhopal Chauraha, Dewas - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1404"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "station": "Gangapur Road, Nashik - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_304"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Vapi",
+      "station": "Phase-1 GIDC, Vapi - GPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5071"
+    },
+    {
+      "state": "Haryana",
+      "city": "Hisar",
+      "station": "Urban Estate-II, Hisar - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5057"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Bhopal",
+      "station": "T T Nagar, Bhopal - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5247"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Damoh",
+      "station": "Shrivastav Colony, Damoh - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5040"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Worli, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5115"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "station": "Nerul, Navi Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5103"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Shivamogga",
+      "station": "Vinoba Nagara, Shivamogga - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5266"
+    },
+    {
+      "state": "Punjab",
+      "city": "Ludhiana",
+      "station": "Punjab Agricultural University, Ludhiana - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_253"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "Muradpur, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5261"
+    },
+    {
+      "state": "Kerala",
+      "city": "Thiruvananthapuram",
+      "station": "Kariavattom, Thiruvananthapuram - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5331"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "DRM Office Danapur, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5336"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "station": "Shastri Nagar, Jaipur - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1396"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Bhiwadi",
+      "station": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1391"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Hubballi",
+      "station": "Deshpande Nagar, Hubballi - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1447"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "station": "Loni, Ghaziabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5083"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Hombegowda Nagar, Bengaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1555"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Yadgir",
+      "station": "Collector Office, Yadgir - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5254"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "station": "City Center, Gwalior - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5273"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5449"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "SVPI Airport Hansol, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5456"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Rakhial, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5451"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Shastripuram, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5463"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Chandni Chowk, Delhi - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5393"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Gummidipoondi",
+      "station": "Anthoni Pillai Nagar, Gummidipoondi - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5362"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Mulund West, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5413"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Navy Nagar-Colaba, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5398"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "station": "Sector-19A Nerul, Navi Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5401"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bidar",
+      "station": "Naubad, Bidar - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5418"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Bhosari, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5406"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Okhla Phase-2, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1428"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Pusa, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_107"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Sri Aurobindo Marg, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1562"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "station": "Sector-116, Noida - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5122"
+    },
+    {
+      "state": "Haryana",
+      "city": "Bahadurgarh",
+      "station": "Arya Nagar, Bahadurgarh - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5045"
+    },
+    {
+      "state": "Bihar",
+      "city": "Chhapra",
+      "station": "Darshan Nagar, Chhapra - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5545"
+    },
+    {
+      "state": "Bihar",
+      "city": "Samastipur",
+      "station": "DM Office_Kasipur, Samastipur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5552"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Rohta, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5482"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "station": "Maldahiya, Varanasi - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5475"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "station": "IESD Banaras Hindu University, Varanasi - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5468"
+    },
+    {
+      "state": "Bihar",
+      "city": "Arrah",
+      "station": "New DM Office, Arrah - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5538"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Tirupati",
+      "station": "Tirumala, Tirupati - APPCB",
+      "channel": "PM2.5",
+      "station_id": "site_258"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "IGSC Planetarium Complex, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_157"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Visakhapatnam",
+      "station": "GVM Corporation, Visakhapatnam - APPCB",
+      "channel": "PM2.5",
+      "station_id": "site_260"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Jhansi",
+      "station": "Shivaji Nagar, Jhansi - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5583"
+    },
+    {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "station": "Sector-25, Chandigarh - CPCC",
+      "channel": "PM2.5",
+      "station_id": "site_5127"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Muzaffarnagar",
+      "station": "New Mandi, Muzaffarnagar - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1550"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Central School, Lucknow - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_272"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Lalbagh, Lucknow - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_277"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Fort William, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5110"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "IHBAS, Dilshad Garden, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_114"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Sirifort, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_119"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "station": "Padmapukur, Howrah - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1416"
+    },
+    {
+      "state": "Haryana",
+      "city": "Ambala",
+      "station": "Patti Mehar, Ambala - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5052"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Rabindra Bharati University, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_296"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Vivek Vihar, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1435"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Jahangirpuri, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1423"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Rohini, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1430"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "BWSSB Kadabesanahalli, Bengaluru - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_164"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Pithampur",
+      "station": "Sector-2 Industrial Area, Pithampur - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1402"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "station": "More Chowk Waluj, Aurangabad - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_198"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Vatva",
+      "station": "Phase-4 GIDC, Vatva - GPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5067"
+    },
+    {
+      "state": "Haryana",
+      "city": "Panipat",
+      "station": "Sector-18, Panipat - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5048"
+    },
+    {
+      "state": "Haryana",
+      "city": "Kurukshetra ",
+      "station": "Sector-7, Kurukshetra - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5043"
+    },
+    {
+      "state": "Haryana",
+      "city": "Mandikhera",
+      "station": "General Hospital, Mandikhera - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5055"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Kalyan",
+      "station": "Khadakpada, Kalyan - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5118"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Mysuru",
+      "station": "Hebbal 1st Stage, Mysuru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5125"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Vile Parle West, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5106"
+    },
+    {
+      "state": "Punjab",
+      "city": "Amritsar",
+      "station": "Golden Temple, Amritsar - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_256"
+    },
+    {
+      "state": "Punjab",
+      "city": "Jalandhar",
+      "station": "Civil Line, Jalandhar - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1438"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bagalkot",
+      "station": "Vidayagiri, Bagalkot - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5264"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kannur",
+      "station": "Thavakkara, Kannur - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5276"
+    },
+    {
+      "state": "Mizoram",
+      "city": "Aizawl",
+      "station": "Sikulpuikawn, Aizawl - Mizoram PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5346"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Kota",
+      "station": "Shrinath Puram, Kota - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1394"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kollam",
+      "station": "Polayathode, Kollam - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5334"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kozhikode",
+      "station": "Palayam, Kozhikode - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5271"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Kalaburagi",
+      "station": "Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1565"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "station": "Pallavpuram Phase 2, Meerut - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5257"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Sagar",
+      "station": "Deen Dayal Nagar, Sagar - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5269"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Durgapur",
+      "station": "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_299"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Bapuji Nagar, Bengaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1553"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Ghaziabad",
+      "station": "Sanjay Nagar, Ghaziabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5081"
+    },
+    {
+      "state": "Haryana",
+      "city": "Palwal ",
+      "station": "Shyam Nagar, Palwal - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5050"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "SAC ISRO Bopal, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5454"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Prayagraj",
+      "station": "Motilal Nehru NIT, Prayagraj - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5459"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Prayagraj",
+      "station": "Jhunsi, Prayagraj - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5461"
+    },
+    {
+      "state": "Haryana",
+      "city": "Faridabad",
+      "station": "Sector 30, Faridabad - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5341"
+    },
+    {
+      "state": "Haryana",
+      "city": "Charkhi Dadri",
+      "station": "Mini Secretariat, Charkhi Dadri - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5339"
+    },
+    {
+      "state": "Tripura",
+      "city": "Agartala",
+      "station": "Kunjaban, Agartala - Tripura SPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5377"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Madikeri",
+      "station": "Stuart Hill, Madikeri - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5391"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Kodungaiyur, Chennai - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5365"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Deonar, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5396"
+    },
+    {
+      "state": "Puducherry",
+      "city": "Puducherry",
+      "station": "Jawahar Nagar, Puducherry - PPCC",
+      "channel": "PM2.5",
+      "station_id": "site_5423"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Revenue Colony-Shivajinagar, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5409"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Mhada Colony, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5404"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "station": "IITK, Kanpur - IITK",
+      "channel": "PM2.5",
+      "station_id": "site_5416"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Bawana, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1560"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Alipur, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_5024"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "North Campus, DU, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_105"
+    },
+    {
+      "state": "Chhattisgarh",
+      "city": "Bhilai",
+      "station": "Civic Center, Bhilai - Bhilai Steel Plant",
+      "channel": "PM2.5",
+      "station_id": "site_5536"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Borivali East, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5113"
+    },
+    {
+      "state": "Bihar",
+      "city": "Gaya",
+      "station": "Kareemganj, Gaya - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5548"
+    },
+    {
+      "state": "Bihar",
+      "city": "Manguraha",
+      "station": "Forest Rest House, Manguraha - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5550"
+    },
+    {
+      "state": "Bihar",
+      "city": "Sasaram",
+      "station": "Dada Peer, Sasaram - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5485"
+    },
+    {
+      "state": "Bihar",
+      "city": "Motihari",
+      "station": "Gandak Colony, Motihari - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5478"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "station": "Nagla Bhau, Firozabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5480"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Kanpur",
+      "station": "FTI Kidwai Nagar, Kanpur - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5500"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "station": "Jigar Colony, Moradabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5555"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Rajamahendravaram",
+      "station": "Anand Kala Kshetram, Rajamahendravaram - APPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1399"
+    },
+    {
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "station": "DM Office_Kachari Chowk, Bhagalpur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5543"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "ITO, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_117"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jodhpur",
+      "station": "Collectorate, Jodhpur - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_136"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Silk Board, Bengaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1558"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Colaba, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5120"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Satna",
+      "station": "Bandhavgar Colony, Satna - Birla Cement",
+      "channel": "PM2.5",
+      "station_id": "site_1433"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "ICRISAT Patancheru, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_251"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "Sanathnagar, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_294"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Sanjay Palace, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_307"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "IDA Pashamylaram, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_275"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Solapur",
+      "station": "Solapur, Solapur - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_302"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "BTM Layout, Bengaluru - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_162"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Greater Noida",
+      "station": "Knowledge Park - III, Greater Noida - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1541"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "station": "Belur Math, Howrah - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5101"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "R K Puram, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_124"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Siliguri",
+      "station": "Ward-32 Bapupara, Siliguri - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1419"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Ballygunge, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5238"
+    },
+    {
+      "state": "Haryana",
+      "city": "Faridabad",
+      "station": "Sector- 16A, Faridabad - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_263"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Dr. Karni Singh Shooting Range, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1421"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Narela, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1426"
+    },
+    {
+      "state": "Himachal Pradesh",
+      "city": "Baddi",
+      "station": "HIMUDA Complex Phase-1, Baddi - HPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5586"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "station": "Lajpat Nagar, Moradabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1398"
+    },
+    {
+      "state": "Assam",
+      "city": "Guwahati",
+      "station": "Railway Colony, Guwahati - APCB",
+      "channel": "PM2.5",
+      "station_id": "site_5073"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Jabalpur",
+      "station": "Marhatal, Jabalpur - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5249"
+    },
+    {
+      "state": "Kerala",
+      "city": "Eloor",
+      "station": "Udyogamandal, Eloor - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5105"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Powai, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5112"
+    },
+    {
+      "state": "Punjab",
+      "city": "Patiala",
+      "station": "Model Town, Patiala - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1437"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Gandhinagar",
+      "station": "Sector-10, Gandhinagar - GPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5066"
+    },
+    {
+      "state": "Bihar",
+      "city": "Gaya",
+      "station": "SFTI Kusdihra, Gaya - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5338"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "Samanpura, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5263"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Chamarajanagar",
+      "station": "Urban, Chamarajanagar - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5124"
+    },
+    {
+      "state": "Kerala",
+      "city": "Kochi",
+      "station": "Vyttila, Kochi - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5270"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Manali Village, Chennai - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5092"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Hapur",
+      "station": "Anand Vihar, Hapur - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5023"
+    },
+    {
+      "state": "Punjab",
+      "city": "Mandi Gobindgarh",
+      "station": "RIMT University, Mandi Gobindgarh - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_255"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Chandkheda, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5453"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "B R Ambedkar University, Lucknow - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5460"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Gandhinagar",
+      "station": "GIFT City, Gandhinagar - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5458"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Lodhi Road, Delhi - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5395"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Sector-3B Avas Vikas Colony, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5465"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Ratlam",
+      "station": "Shasthri Nagar, Ratlam - IPCA Lab",
+      "channel": "PM2.5",
+      "station_id": "site_5042"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Gwalior",
+      "station": "Phool Bagh, Gwalior - Mondelez Ind. Food",
+      "channel": "PM2.5",
+      "station_id": "site_5275"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "station": "Sector-51, Gurugram - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5345"
+    },
+    {
+      "state": "Haryana",
+      "city": "Faridabad",
+      "station": "New Industrial Town, Faridabad - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5340"
+    },
+    {
+      "state": "Kerala",
+      "city": "Thrissur",
+      "station": "Corporation Ground, Thrissur - Kerala PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5390"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Siddharth Nagar-Worli, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5403"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Royapuram, Chennai - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5364"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Davanagere",
+      "station": "Devaraj Urs Badavane, Davanagere - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5422"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Koppal",
+      "station": "Diwator Nagar, Koppal - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5415"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Transport Nagar-Nigdi, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5408"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "MIT-Kothrud, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5410"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Burari Crossing, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_104"
+    },
+    {
+      "state": "Haryana",
+      "city": "Bhiwani",
+      "station": "H.B. Colony, Bhiwani - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5047"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Major Dhyan Chand National Stadium, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1425"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Lodhi Road, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_109"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "station": "Sector - 62, Noida - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_111"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Anand Vihar, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_301"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Singrauli",
+      "station": "Suryakiran Bhawan NCL, Singrauli - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1401"
+    },
+    {
+      "state": "Bihar",
+      "city": "Kishanganj",
+      "station": "SDM Office_Khagra, Kishanganj - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5547"
+    },
+    {
+      "state": "Bihar",
+      "city": "Rajgir",
+      "station": "Dangi Tola, Rajgir - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5489"
+    },
+    {
+      "state": "Bihar",
+      "city": "Darbhanga",
+      "station": "Town Hall - Lal Bagh, Darbhanga - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5477"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Moradabad",
+      "station": "Buddhi Vihar, Moradabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5554"
+    },
+    {
+      "state": "Chandigarh",
+      "city": "Chandigarh",
+      "station": "Sector 22, Chandigarh - CPCC",
+      "channel": "PM2.5",
+      "station_id": "site_5491"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Prayagraj",
+      "station": "Nagar Nigam, Prayagraj - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5484"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Gorakhpur",
+      "station": "Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5472"
+    },
+    {
+      "state": "Punjab",
+      "city": "Rupnagar",
+      "station": "Ratanpura, Rupnagar - Ambuja Cements",
+      "channel": "PM2.5",
+      "station_id": "site_1538"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "city": "Amaravati",
+      "station": "Secretariat, Amaravati - APPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1406"
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "city": "Naharlagun",
+      "station": "Naharlagun, Naharlagun - APSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5446"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Alandur Bus Depot, Chennai - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_293"
+    },
+    {
+      "state": "Meghalaya ",
+      "city": "Shillong",
+      "station": "Lumpyngngad, Shillong - Meghalaya PCB",
+      "channel": "PM2.5",
+      "station_id": "site_5131"
+    },
+    {
+      "state": "Bihar",
+      "city": "Gaya",
+      "station": "Collectorate, Gaya - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_159"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Manali, Chennai - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_306"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Chikkaballapur",
+      "station": "Chikkaballapur Rural, Chikkaballapur - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1557"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "Central University, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_262"
+    },
+    {
+      "state": "Bihar",
+      "city": "Buxar",
+      "station": "Central Jail, Buxar - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5542"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Bidhannagar, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5129"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Howrah",
+      "station": "Ghusuri, Howrah - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_274"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Asansol",
+      "station": "Asansol Court Area, Asansol - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1418"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Baghpat",
+      "station": "New Collectorate, Baghpat - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1569"
+    },
+    {
+      "state": "Haryana",
+      "city": "Fatehabad",
+      "station": "Huda Sector, Fatehabad - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5054"
+    },
+    {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "station": "Zoo Park, Hyderabad - TSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_298"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Ashok Vihar, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1420"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Sonia Vihar, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1432"
+    },
+    {
+      "state": "Haryana",
+      "city": "Rohtak",
+      "station": "MD University, Rohtak - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_147"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "station": "Adarsh Nagar, Jaipur - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1393"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Baghpat",
+      "station": "Sardar Patel Inter College, Baghpat - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5585"
+    },
+    {
+      "state": "Haryana",
+      "city": "Panchkula",
+      "station": "Sector-6, Panchkula - HSPCB ",
+      "channel": "PM2.5",
+      "station_id": "site_161"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Thane",
+      "station": "Pimpleshwar Mandir, Thane - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_305"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Ujjain",
+      "station": "Mahakaleshwar Temple, Ujjain - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1400"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ankleshwar",
+      "station": "GIDC, Ankleshwar - GPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5065"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Kurla, Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5104"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Nandesari",
+      "station": "GIDC, Nandesari - Nandesari Ind. Association",
+      "channel": "PM2.5",
+      "station_id": "site_5274"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Ajmer",
+      "station": "Civil Lines,  Ajmer - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1392"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Vijayapura",
+      "station": "Ibrahimpur, Vijayapura - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5267"
+    },
+    {
+      "state": "Bihar",
+      "city": "Patna",
+      "station": "Rajbansi Nagar, Patna - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5262"
+    },
+    {
+      "state": "Bihar",
+      "city": "Hajipur",
+      "station": "Industrial Area, Hajipur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5337"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Udaipur",
+      "station": "Ashok Nagar, Udaipur - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1397"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Meerut",
+      "station": "Jai Bhim Nagar, Meerut - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5109"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Haldia",
+      "station": "Haldia, Haldia - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_300"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Indore",
+      "station": "Chhoti Gwaltoli, Indore - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5248"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Bengaluru",
+      "station": "Jayanagar 5th Block, Bengaluru - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1556"
+    },
+    {
+      "state": "Haryana",
+      "city": "Narnaul",
+      "station": "Shastri Nagar, Narnaul - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5053"
+    },
+    {
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "station": "Muzaffarpur Collectorate, Muzaffarpur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_158"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "city": "Katni",
+      "station": "Gole Bazar, Katni - MPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5250"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Ramanagara",
+      "station": "Vijay Nagar, Ramanagara - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5255"
+    },
+    {
+      "state": "Punjab",
+      "city": "Khanna",
+      "station": "Kalal Majra, Khanna - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1450"
+    },
+    {
+      "state": "Haryana",
+      "city": "Kaithal",
+      "station": "Rishi Nagar, Kaithal - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5072"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Ahmedabad",
+      "station": "Raikhad, Ahmedabad - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5452"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "station": "Manoharpur, Agra - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5464"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Navi Mumbai",
+      "station": "Airoli, Navi Mumbai - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_261"
+    },
+    {
+      "state": "Gujarat",
+      "city": "Gandhinagar",
+      "station": "IIPHG Lekawada, Gandhinagar - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5457"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "station": "Teri Gram, Gurugram - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5344"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Chakala-Andheri East, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5399"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Malad West, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5402"
+    },
+    {
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "station": "Buddha Colony, Muzaffarpur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5370"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "station": "Mazgaon, Mumbai - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5394"
+    },
+    {
+      "state": "Tamil Nadu",
+      "city": "Chennai",
+      "station": "Perungudi, Chennai - TNPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5363"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Hadapsar, Pune - IITM",
+      "channel": "PM2.5",
+      "station_id": "site_5407"
+    },
+    {
+      "state": "Nagaland",
+      "city": "Kohima",
+      "station": "PWD Juction, Kohima - NPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5375"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Mangalore",
+      "station": "Kadri, Mangalore - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5421"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Udupi",
+      "station": "Brahmagiri, Udupi - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5433"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Gadag",
+      "station": "Panchal Nagar, Gadag - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5419"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Raichur",
+      "station": "Haji Colony, Raichur - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5414"
+    },
+    {
+      "state": "Karnataka",
+      "city": "Kolar",
+      "station": "Tamaka Ind. Area, Kolar - KSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1551"
+    },
+    {
+      "state": "Haryana",
+      "city": "Sonipat",
+      "station": "Murthal, Sonipat - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5041"
+    },
+    {
+      "state": "Haryana",
+      "city": "Manesar",
+      "station": "Sector-2 IMT, Manesar - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5039"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Aya Nagar, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_108"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "CRRI Mathura Road, Delhi - IMD",
+      "channel": "PM2.5",
+      "station_id": "site_103"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Pusa, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1563"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "station": "Sector - 125, Noida - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_153"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Noida",
+      "station": "Sector-1, Noida - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5123"
+    },
+    {
+      "state": "Bihar",
+      "city": "Bhagalpur",
+      "station": "Mayaganj, Bhagalpur - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5541"
+    },
+    {
+      "state": "Bihar",
+      "city": "Katihar",
+      "station": "Mirchaibari, Katihar - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5546"
+    },
+    {
+      "state": "Bihar",
+      "city": "Bettiah",
+      "station": "Kamalnath Nagar, Bettiah - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5476"
+    },
+    {
+      "state": "Bihar",
+      "city": "Munger",
+      "station": "Town Hall, Munger - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5490"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Vrindavan",
+      "station": "Omex Eternity, Vrindavan - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5483"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "station": "Bhelupur, Varanasi - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5469"
+    },
+    {
+      "state": "Chhattisgarh",
+      "city": "Bilaspur",
+      "station": "Mangala, Bilaspur - NTPC",
+      "channel": "PM2.5",
+      "station_id": "site_5503"
+    },
+    {
+      "state": "Bihar",
+      "city": "Araria",
+      "station": "Kharahiya Basti, Araria - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5539"
+    },
+    {
+      "state": "Bihar",
+      "city": "Siwan",
+      "station": "Chitragupta Nagar, Siwan - BSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5553"
+    },
+    {
+      "state": "Rajasthan",
+      "city": "Jaipur",
+      "station": "Police Commissionerate, Jaipur - RSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_134"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Firozabad",
+      "station": "Vibhab Nagar, Firozabad - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5584"
+    },
+    {
+      "state": "Punjab",
+      "city": "Bathinda",
+      "station": "Hardev Nagar, Bathinda - PPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1549"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Gomti Nagar, Lucknow - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5128"
+    },
+    {
+      "state": "Maharashtra",
+      "city": "Pune",
+      "station": "Karve Road, Pune - MPCB",
+      "channel": "PM2.5",
+      "station_id": "site_292"
+    },
+    {
+      "state": "West Bengal",
+      "city": "Kolkata",
+      "station": "Jadavpur, Kolkata - WBPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5111"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "NSIT Dwarka, Delhi - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_115"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Mandir Marg, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_122"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Nishant Ganj, Lucknow - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_1405"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Varanasi",
+      "station": "Ardhali Bazar, Varanasi - UPPCB",
+      "channel": "PM2.5",
+      "station_id": "site_273"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "city": "Lucknow",
+      "station": "Talkatora District Industries Center, Lucknow - CPCB",
+      "channel": "PM2.5",
+      "station_id": "site_297"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Jawaharlal Nehru Stadium, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1424"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Nehru Nagar, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1429"
+    },
+    {
+      "state": "Delhi",
+      "city": "Delhi",
+      "station": "Patparganj, Delhi - DPCC",
+      "channel": "PM2.5",
+      "station_id": "site_1431"
+    },
+    {
+      "state": "Haryana",
+      "city": "Gurugram",
+      "station": "Vikas Sadan, Gurugram - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_146"
+    },
+    {
+      "state": "Haryana",
+      "city": "Yamuna Nagar",
+      "station": "Gobind Pura, Yamuna Nagar - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5046"
+    },
+    {
+      "state": "Haryana",
+      "city": "Ballabgarh",
+      "station": "Nathu Colony, Ballabgarh - HSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_5060"
+    },
+    {
+      "state": "Jharkhand",
+      "city": "Jorapokhar",
+      "station": "Tata Stadium, Jorapokhar - JSPCB",
+      "channel": "PM2.5",
+      "station_id": "site_254"
+    }
+  ],
+  "header": [
+    {
+      "key": "state",
+      "value": "State"
+    },
+    {
+      "key": "city",
+      "value": "City"
+    },
+    {
+      "key": "station",
+      "value": "Station"
+    },
+    {
+      "key": "channel",
+      "value": "Channel Name"
+    }
+  ],
+  "status": "success"
+}

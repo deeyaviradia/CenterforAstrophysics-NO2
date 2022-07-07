@@ -1,0 +1,3044 @@
+[
+  {
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "station": "Plammoodu, Thiruvananthapuram - Kerala PCB",
+    "station_id": "site_252",
+    "lat": "8.5149093",
+    "long": "76.9435879",
+    "name": "Plammoodu, Thiruvananthapuram - Kerala PCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Mandideep",
+    "station": "Sector-D Industrial Area, Mandideep - MPPCB",
+    "station_id": "site_1403",
+    "lat": "23.108440",
+    "long": "77.511428",
+    "name": "Sector-D Industrial Area, Mandideep - MPPCB"
+  },
+  {
+    "state": "Odisha",
+    "city": "Talcher",
+    "station": "Talcher Coalfields,Talcher - OSPCB",
+    "station_id": "site_1408",
+    "lat": "20.9360711",
+    "long": "85.1707021",
+    "name": "Talcher Coalfields,Talcher - OSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Chandrapur",
+    "station": "Chandrapur, Chandrapur - MPCB",
+    "station_id": "site_271",
+    "lat": "19.645324",
+    "long": "77.6345232",
+    "name": "Chandrapur, Chandrapur - MPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "station": "Vasundhara, Ghaziabad - UPPCB",
+    "station_id": "site_144",
+    "lat": "28.6603346",
+    "long": "77.3572563",
+    "name": "Vasundhara, Ghaziabad - UPPCB"
+  },
+  {
+    "state": "Odisha",
+    "city": "Brajrajnagar",
+    "station": "GM Office, Brajrajnagar - OSPCB",
+    "station_id": "site_1410",
+    "lat": "21.8004996",
+    "long": "83.8396977",
+    "name": "GM Office, Brajrajnagar - OSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Karnal",
+    "station": "Sector-12, Karnal - HSPCB",
+    "station_id": "site_5049",
+    "lat": "29.695300",
+    "long": "77.002700",
+    "name": "Sector-12, Karnal - HSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Vasai West, Mumbai - MPCB",
+    "station_id": "site_5102",
+    "lat": "19.383200",
+    "long": "72.820400",
+    "name": "Vasai West, Mumbai - MPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Sion, Mumbai - MPCB",
+    "station_id": "site_5119",
+    "lat": "19.047000",
+    "long": "72.874600",
+    "name": "Sion, Mumbai - MPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Chikkamagaluru",
+    "station": "Kalyana Nagara, Chikkamagaluru - KSPCB",
+    "station_id": "site_5265",
+    "lat": "13.328028",
+    "long": "75.797056",
+    "name": "Kalyana Nagara, Chikkamagaluru - KSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Navi Mumbai",
+    "station": "Mahape, Navi Mumbai - MPCB",
+    "station_id": "site_5114",
+    "lat": "19.1135051",
+    "long": "73.008978",
+    "name": "Mahape, Navi Mumbai - MPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "Govt. High School Shikarpur, Patna - BSPCB",
+    "station_id": "site_5335",
+    "lat": "25.592539",
+    "long": "85.227158",
+    "name": "Govt. High School Shikarpur, Patna - BSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Pali",
+    "station": "Indira Colony Vistar, Pali - RSPCB",
+    "station_id": "site_1395",
+    "lat": "25.771061",
+    "long": " 73.340227",
+    "name": "Indira Colony Vistar, Pali - RSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Alwar",
+    "station": "Moti Doongri, Alwar - RSPCB",
+    "station_id": "site_1390",
+    "lat": "27.554793",
+    "long": "76.611536",
+    "name": "Moti Doongri, Alwar - RSPCB"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Vijayawada",
+    "station": "PWD Grounds, Vijayawada - APPCB",
+    "station_id": "site_257",
+    "lat": "16.507014",
+    "long": "80.627767",
+    "name": "PWD Grounds, Vijayawada - APPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Ernakulam",
+    "station": "Kacheripady, Ernakulam - Kerala PCB",
+    "station_id": "site_5272",
+    "lat": "9.985653",
+    "long": "76.281342",
+    "name": "Kacheripady, Ernakulam - Kerala PCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Coimbatore",
+    "station": "SIDCO Kurichi, Coimbatore - TNPCB",
+    "station_id": "site_5094",
+    "lat": "10.942451",
+    "long": "76.978996",
+    "name": "SIDCO Kurichi, Coimbatore - TNPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "station": "Ganga Nagar, Meerut - UPPCB",
+    "station_id": "site_5258",
+    "lat": "28.999264",
+    "long": "77.7590354",
+    "name": "Ganga Nagar, Meerut - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Jind",
+    "station": "Police Lines, Jind - HSPCB",
+    "station_id": "site_5056",
+    "lat": "29.307814",
+    "long": "76.337619",
+    "name": "Police Lines, Jind - HSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Hebbal, Bengaluru - KSPCB",
+    "station_id": "site_1554",
+    "lat": "13.029152",
+    "long": "77.585901",
+    "name": "Hebbal, Bengaluru - KSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "station": "Indirapuram, Ghaziabad - UPPCB",
+    "station_id": "site_5082",
+    "lat": "28.646233",
+    "long": "77.358075",
+    "name": "Indirapuram, Ghaziabad - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Sirsa",
+    "station": "F-Block, Sirsa - HSPCB",
+    "station_id": "site_5051",
+    "lat": "29.536400",
+    "long": "75.015800",
+    "name": "F-Block, Sirsa - HSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Peenya, Bengaluru - CPCB",
+    "station_id": "site_163",
+    "lat": "13.0270199",
+    "long": "77.494094",
+    "name": "Peenya, Bengaluru - CPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "SAC ISRO Satellite, Ahmedabad - IITM",
+    "station_id": "site_5455",
+    "lat": "23.023389",
+    "long": "72.515201",
+    "name": "SAC ISRO Satellite, Ahmedabad - IITM"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Gyaspur, Ahmedabad - IITM",
+    "station_id": "site_5450",
+    "lat": "22.977134",
+    "long": "72.553024",
+    "name": "Gyaspur, Ahmedabad - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Kukrail Picnic Spot-1, Lucknow - UPPCB",
+    "station_id": "site_5462",
+    "lat": "26.90723",
+    "long": "80.98579",
+    "name": "Kukrail Picnic Spot-1, Lucknow - UPPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Maihar",
+    "station": "Sahilara, Maihar - KJS Cements",
+    "station_id": "site_5068",
+    "lat": "24.2613009",
+    "long": "80.7231783",
+    "name": "Sahilara, Maihar - KJS Cements"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Hassan",
+    "station": "B.Katihalli, Hassan - KSPCB",
+    "station_id": "site_5448",
+    "lat": "13.008556",
+    "long": "76.125258",
+    "name": "B.Katihalli, Hassan - KSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Faridabad",
+    "station": "Sector 11, Faridabad - HSPCB",
+    "station_id": "site_5342",
+    "lat": "28.376058",
+    "long": "77.315741",
+    "name": "Sector 11, Faridabad - HSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Bandra Kurla Complex, Mumbai - IITM",
+    "station_id": "site_5392",
+    "lat": "19.053536",
+    "long": "72.84643",
+    "name": "Bandra Kurla Complex, Mumbai - IITM"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Borivali East, Mumbai - IITM",
+    "station_id": "site_5400",
+    "lat": "19.23241",
+    "long": "72.86895",
+    "name": "Borivali East, Mumbai - IITM"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Arumbakkam, Chennai - TNPCB",
+    "station_id": "site_5361",
+    "lat": "13.0664",
+    "long": "80.2112 ",
+    "name": "Arumbakkam, Chennai - TNPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Kandivali East, Mumbai - MPCB",
+    "station_id": "site_5412",
+    "lat": "19.205800",
+    "long": "72.868200",
+    "name": "Kandivali East, Mumbai - MPCB"
+  },
+  {
+    "state": "Jammu and Kashmir",
+    "city": "Srinagar",
+    "station": "Rajbagh, Srinagar - JKSPCB",
+    "station_id": "site_5424",
+    "lat": "34.066206",
+    "long": "74.819820",
+    "name": "Rajbagh, Srinagar - JKSPCB"
+  },
+  {
+    "state": "Assam",
+    "city": "Guwahati",
+    "station": "Pan Bazaar, Guwahati - APCB",
+    "station_id": "site_5417",
+    "lat": "26.187500",
+    "long": "91.744194",
+    "name": "Pan Bazaar, Guwahati - APCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Alandi, Pune - IITM",
+    "station_id": "site_5405",
+    "lat": "18.675076",
+    "long": "73.892743",
+    "name": "Alandi, Pune - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Mundka, Delhi - DPCC",
+    "station_id": "site_1561",
+    "lat": "28.684678",
+    "long": "77.076574",
+    "name": "Mundka, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "IGI Airport (T3), Delhi - IMD",
+    "station_id": "site_106",
+    "lat": "28.5627763",
+    "long": "77.1180053",
+    "name": "IGI Airport (T3), Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Wazirpur, Delhi - DPCC",
+    "station_id": "site_1434",
+    "lat": "28.699793",
+    "long": "77.165453",
+    "name": "Wazirpur, Delhi - DPCC"
+  },
+  {
+    "state": "Haryana",
+    "city": "Gurugram",
+    "station": "NISE Gwal Pahari, Gurugram - IMD",
+    "station_id": "site_5025",
+    "lat": "28.422681",
+    "long": "77.148944",
+    "name": "NISE Gwal Pahari, Gurugram - IMD"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "station": "Knowledge Park - V, Greater Noida - UPPCB",
+    "station_id": "site_5121",
+    "lat": "28.557054",
+    "long": "77.453663",
+    "name": "Knowledge Park - V, Greater Noida - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Dharuhera",
+    "station": "Municipal Corporation Office, Dharuhera -  HSPCB",
+    "station_id": "site_5044",
+    "lat": "28.206800",
+    "long": "76.799700",
+    "name": "Municipal Corporation Office, Dharuhera -  HSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Khindipada-Bhandup West, Mumbai - IITM",
+    "station_id": "site_5397",
+    "lat": "19.1653323",
+    "long": "72.922099",
+    "name": "Khindipada-Bhandup West, Mumbai - IITM"
+  },
+  {
+    "state": "Bihar",
+    "city": "Aurangabad",
+    "station": "Gurdeo Nagar, Aurangabad - BSPCB",
+    "station_id": "site_5544",
+    "lat": "24.75746",
+    "long": "84.366208",
+    "name": "Gurdeo Nagar, Aurangabad - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Saharsa",
+    "station": "Police Line, Saharsa - BSPCB",
+    "station_id": "site_5551",
+    "lat": "25.892357",
+    "long": "86.590325",
+    "name": "Police Line, Saharsa - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Purnia",
+    "station": "Mariam Nagar, Purnia - BSPCB",
+    "station_id": "site_5549",
+    "lat": "25.366336",
+    "long": "87.117468",
+    "name": "Mariam Nagar, Purnia - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "station": "NSI Kalyanpur, Kanpur - UPPCB",
+    "station_id": "site_5474",
+    "lat": "26.509954",
+    "long": "80.249612",
+    "name": "NSI Kalyanpur, Kanpur - UPPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Muzaffarpur",
+    "station": "MIT-Daudpur Kothi, Muzaffarpur - BSPCB",
+    "station_id": "site_5479",
+    "lat": "26.1403345",
+    "long": "85.3650192",
+    "name": "MIT-Daudpur Kothi, Muzaffarpur - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Shahjahan Garden, Agra - UPPCB",
+    "station_id": "site_5501",
+    "lat": "27.169338",
+    "long": "78.03582",
+    "name": "Shahjahan Garden, Agra - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Moradabad",
+    "station": "Employment Office, Moradabad - UPPCB",
+    "station_id": "site_5537",
+    "lat": "28.88528",
+    "long": "78.73880",
+    "name": "Employment Office, Moradabad - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Moradabad",
+    "station": "Eco Herbal Park, Moradabad - UPPCB",
+    "station_id": "site_5556",
+    "lat": "28.840739",
+    "long": "78.697531",
+    "name": "Eco Herbal Park, Moradabad - UPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Bandra, Mumbai - MPCB",
+    "station_id": "site_168",
+    "lat": "19.0627",
+    "long": "72.84614",
+    "name": "Bandra, Mumbai - MPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Bihar Sharif",
+    "station": "D M Colony, Bihar Sharif - BSPCB",
+    "station_id": "site_5481",
+    "lat": "25.204762",
+    "long": "85.514960",
+    "name": "D M Colony, Bihar Sharif - BSPCB"
+  },
+  {
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "station": "Sector-53, Chandigarh - CPCC",
+    "station_id": "site_5582",
+    "lat": "30.719859",
+    "long": "76.738637",
+    "name": "Sector-53, Chandigarh - CPCC"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
+    "station_id": "site_5107",
+    "lat": "19.10078",
+    "long": "72.87462",
+    "name": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Chandrapur",
+    "station": "MIDC Khutala, Chandrapur - MPCB",
+    "station_id": "site_295",
+    "lat": "19.9775302",
+    "long": "79.2337086",
+    "name": "MIDC Khutala, Chandrapur - MPCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Velachery Res. Area, Chennai - CPCB",
+    "station_id": "site_288",
+    "lat": "13.0052189",
+    "long": "80.2398125",
+    "name": "Velachery Res. Area, Chennai - CPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Rabindra Sarobar, Kolkata - WBPCB",
+    "station_id": "site_5126",
+    "lat": "22.51106",
+    "long": "88.35142",
+    "name": "Rabindra Sarobar, Kolkata - WBPCB"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "Bollaram Industrial Area, Hyderabad - TSPCB",
+    "station_id": "site_199",
+    "lat": "17.540891",
+    "long": "78.358528",
+    "name": "Bollaram Industrial Area, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Bulandshahr",
+    "station": "Yamunapuram, Bulandshahr - UPPCB",
+    "station_id": "site_1542",
+    "lat": "28.406963",
+    "long": "77.849831",
+    "name": "Yamunapuram, Bulandshahr - UPPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "DTU, Delhi - CPCB",
+    "station_id": "site_118",
+    "lat": "28.7500499",
+    "long": "77.1112615",
+    "name": "DTU, Delhi - CPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Nagpur",
+    "station": "Opp GPO Civil Lines, Nagpur - MPCB",
+    "station_id": "site_303",
+    "lat": "21.152875",
+    "long": "79.0517531",
+    "name": "Opp GPO Civil Lines, Nagpur - MPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Dwarka-Sector 8, Delhi - DPCC ",
+    "station_id": "site_1422",
+    "lat": "28.5710274",
+    "long": "77.0719006",
+    "name": "Dwarka-Sector 8, Delhi - DPCC "
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "station": "Nehru Nagar, Kanpur - UPPCB",
+    "station_id": "site_276",
+    "lat": "26.4703136",
+    "long": "80.3229863",
+    "name": "Nehru Nagar, Kanpur - UPPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Najafgarh, Delhi - DPCC",
+    "station_id": "site_1427",
+    "lat": "28.570173",
+    "long": "76.933762",
+    "name": "Najafgarh, Delhi - DPCC"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Maninagar, Ahmedabad - GPCB",
+    "station_id": "site_308",
+    "lat": "23.002657",
+    "long": "72.591912",
+    "name": "Maninagar, Ahmedabad - GPCB"
+  },
+  {
+    "state": "Tripura",
+    "city": "Agartala",
+    "station": "Bardowali, Agartala - Tripura SPCB",
+    "station_id": "site_5587",
+    "lat": "23.8175497",
+    "long": "91.2726974",
+    "name": "Bardowali, Agartala - Tripura SPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Shadipur, Delhi - CPCB",
+    "station_id": "site_113",
+    "lat": "28.6514781",
+    "long": "77.1473105",
+    "name": "Shadipur, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Punjabi Bagh, Delhi - DPCC",
+    "station_id": "site_125",
+    "lat": "28.674045",
+    "long": "77.131023",
+    "name": "Punjabi Bagh, Delhi - DPCC"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Victoria, Kolkata - WBPCB",
+    "station_id": "site_309",
+    "lat": "22.5448082",
+    "long": "88.3403691",
+    "name": "Victoria, Kolkata - WBPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Dewas",
+    "station": "Bhopal Chauraha, Dewas - MPPCB",
+    "station_id": "site_1404",
+    "lat": "22.9682591",
+    "long": "76.064118",
+    "name": "Bhopal Chauraha, Dewas - MPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "station": "Gangapur Road, Nashik - MPCB",
+    "station_id": "site_304",
+    "lat": "20.0073285",
+    "long": "73.7762427",
+    "name": "Gangapur Road, Nashik - MPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Vapi",
+    "station": "Phase-1 GIDC, Vapi - GPCB",
+    "station_id": "site_5071",
+    "lat": "20.362421",
+    "long": "72.918013",
+    "name": "Phase-1 GIDC, Vapi - GPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Hisar",
+    "station": "Urban Estate-II, Hisar - HSPCB",
+    "station_id": "site_5057",
+    "lat": "29.140560",
+    "long": "75.744941",
+    "name": "Urban Estate-II, Hisar - HSPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Bhopal",
+    "station": "T T Nagar, Bhopal - MPPCB",
+    "station_id": "site_5247",
+    "lat": "23.233584",
+    "long": "77.400574",
+    "name": "T T Nagar, Bhopal - MPPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Damoh",
+    "station": "Shrivastav Colony, Damoh - MPPCB",
+    "station_id": "site_5040",
+    "lat": "23.81748678",
+    "long": "79.446246",
+    "name": "Shrivastav Colony, Damoh - MPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Worli, Mumbai - MPCB",
+    "station_id": "site_5115",
+    "lat": "18.9936162",
+    "long": "72.8128113",
+    "name": "Worli, Mumbai - MPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Navi Mumbai",
+    "station": "Nerul, Navi Mumbai - MPCB",
+    "station_id": "site_5103",
+    "lat": "19.008751",
+    "long": "73.016620",
+    "name": "Nerul, Navi Mumbai - MPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Shivamogga",
+    "station": "Vinoba Nagara, Shivamogga - KSPCB",
+    "station_id": "site_5266",
+    "lat": "13.940000",
+    "long": "75.555917",
+    "name": "Vinoba Nagara, Shivamogga - KSPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Ludhiana",
+    "station": "Punjab Agricultural University, Ludhiana - PPCB",
+    "station_id": "site_253",
+    "lat": "30.9028",
+    "long": "75.8086",
+    "name": "Punjab Agricultural University, Ludhiana - PPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "Muradpur, Patna - BSPCB",
+    "station_id": "site_5261",
+    "lat": "25.619651",
+    "long": "85.147382",
+    "name": "Muradpur, Patna - BSPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Thiruvananthapuram",
+    "station": "Kariavattom, Thiruvananthapuram - Kerala PCB",
+    "station_id": "site_5331",
+    "lat": "8.563700",
+    "long": "76.886500",
+    "name": "Kariavattom, Thiruvananthapuram - Kerala PCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "DRM Office Danapur, Patna - BSPCB",
+    "station_id": "site_5336",
+    "lat": "25.586562",
+    "long": "85.043586",
+    "name": "DRM Office Danapur, Patna - BSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "station": "Shastri Nagar, Jaipur - RSPCB",
+    "station_id": "site_1396",
+    "lat": "26.9502929",
+    "long": "75.730943",
+    "name": "Shastri Nagar, Jaipur - RSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Bhiwadi",
+    "station": "RIICO Ind. Area III, Bhiwadi - RSPCB",
+    "station_id": "site_1391",
+    "lat": "28.194909",
+    "long": "76.862296",
+    "name": "RIICO Ind. Area III, Bhiwadi - RSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Hubballi",
+    "station": "Deshpande Nagar, Hubballi - KSPCB",
+    "station_id": "site_1447",
+    "lat": "15.351773",
+    "long": "75.140726",
+    "name": "Deshpande Nagar, Hubballi - KSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "station": "Loni, Ghaziabad - UPPCB",
+    "station_id": "site_5083",
+    "lat": "28.757294",
+    "long": "77.278792",
+    "name": "Loni, Ghaziabad - UPPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Hombegowda Nagar, Bengaluru - KSPCB",
+    "station_id": "site_1555",
+    "lat": "12.938539",
+    "long": "77.590100",
+    "name": "Hombegowda Nagar, Bengaluru - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Yadgir",
+    "station": "Collector Office, Yadgir - KSPCB",
+    "station_id": "site_5254",
+    "lat": "16.7602",
+    "long": "77.1428",
+    "name": "Collector Office, Yadgir - KSPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "station": "City Center, Gwalior - MPPCB",
+    "station_id": "site_5273",
+    "lat": "26.203442",
+    "long": "78.193251",
+    "name": "City Center, Gwalior - MPPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",
+    "station_id": "site_5449",
+    "lat": "23.043070",
+    "long": "72.562968",
+    "name": "Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "SVPI Airport Hansol, Ahmedabad - IITM",
+    "station_id": "site_5456",
+    "lat": "23.076793",
+    "long": "72.627874",
+    "name": "SVPI Airport Hansol, Ahmedabad - IITM"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Rakhial, Ahmedabad - IITM",
+    "station_id": "site_5451",
+    "lat": "23.016834",
+    "long": "72.625775",
+    "name": "Rakhial, Ahmedabad - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Shastripuram, Agra - UPPCB",
+    "station_id": "site_5463",
+    "lat": "27.19862",
+    "long": "77.92066",
+    "name": "Shastripuram, Agra - UPPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Chandni Chowk, Delhi - IITM",
+    "station_id": "site_5393",
+    "lat": "28.656756",
+    "long": "77.227234",
+    "name": "Chandni Chowk, Delhi - IITM"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Gummidipoondi",
+    "station": "Anthoni Pillai Nagar, Gummidipoondi - TNPCB",
+    "station_id": "site_5362",
+    "lat": "13.4127",
+    "long": "80.1081",
+    "name": "Anthoni Pillai Nagar, Gummidipoondi - TNPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Mulund West, Mumbai - MPCB",
+    "station_id": "site_5413",
+    "lat": "19.1750",
+    "long": "72.9419",
+    "name": "Mulund West, Mumbai - MPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Navy Nagar-Colaba, Mumbai - IITM",
+    "station_id": "site_5398",
+    "lat": "18.897756",
+    "long": "72.813320",
+    "name": "Navy Nagar-Colaba, Mumbai - IITM"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Navi Mumbai",
+    "station": "Sector-19A Nerul, Navi Mumbai - IITM",
+    "station_id": "site_5401",
+    "lat": "19.044",
+    "long": "73.0325",
+    "name": "Sector-19A Nerul, Navi Mumbai - IITM"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bidar",
+    "station": "Naubad, Bidar - KSPCB",
+    "station_id": "site_5418",
+    "lat": "17.930306",
+    "long": "77.482194",
+    "name": "Naubad, Bidar - KSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Bhosari, Pune - IITM",
+    "station_id": "site_5406",
+    "lat": "18.640051",
+    "long": "73.848956",
+    "name": "Bhosari, Pune - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Okhla Phase-2, Delhi - DPCC",
+    "station_id": "site_1428",
+    "lat": "28.530785",
+    "long": "77.271255",
+    "name": "Okhla Phase-2, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Pusa, Delhi - IMD",
+    "station_id": "site_107",
+    "lat": "28.639645",
+    "long": "77.146263",
+    "name": "Pusa, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Sri Aurobindo Marg, Delhi - DPCC",
+    "station_id": "site_1562",
+    "lat": "28.531346",
+    "long": "77.190156",
+    "name": "Sri Aurobindo Marg, Delhi - DPCC"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "station": "Sector-116, Noida - UPPCB",
+    "station_id": "site_5122",
+    "lat": "28.569230",
+    "long": "77.393848",
+    "name": "Sector-116, Noida - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Bahadurgarh",
+    "station": "Arya Nagar, Bahadurgarh - HSPCB",
+    "station_id": "site_5045",
+    "lat": "28.6701",
+    "long": "76.9254",
+    "name": "Arya Nagar, Bahadurgarh - HSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Chhapra",
+    "station": "Darshan Nagar, Chhapra - BSPCB",
+    "station_id": "site_5545",
+    "lat": "25.7808257",
+    "long": "84.7446768",
+    "name": "Darshan Nagar, Chhapra - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Samastipur",
+    "station": "DM Office_Kasipur, Samastipur - BSPCB",
+    "station_id": "site_5552",
+    "lat": "25.859655",
+    "long": "85.77944",
+    "name": "DM Office_Kasipur, Samastipur - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Rohta, Agra - UPPCB",
+    "station_id": "site_5482",
+    "lat": "27.106972",
+    "long": "78.000111",
+    "name": "Rohta, Agra - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "station": "Maldahiya, Varanasi - UPPCB",
+    "station_id": "site_5475",
+    "lat": "25.32393",
+    "long": "82.99687",
+    "name": "Maldahiya, Varanasi - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "station": "IESD Banaras Hindu University, Varanasi - UPPCB",
+    "station_id": "site_5468",
+    "lat": "25.262326",
+    "long": "82.995408",
+    "name": "IESD Banaras Hindu University, Varanasi - UPPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Arrah",
+    "station": "New DM Office, Arrah - BSPCB",
+    "station_id": "site_5538",
+    "lat": "25.5626095",
+    "long": "84.663264",
+    "name": "New DM Office, Arrah - BSPCB"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Tirupati",
+    "station": "Tirumala, Tirupati - APPCB",
+    "station_id": "site_258",
+    "lat": "13.67",
+    "long": "79.35",
+    "name": "Tirumala, Tirupati - APPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "IGSC Planetarium Complex, Patna - BSPCB",
+    "station_id": "site_157",
+    "lat": "25.5941",
+    "long": "85.1376",
+    "name": "IGSC Planetarium Complex, Patna - BSPCB"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "station": "GVM Corporation, Visakhapatnam - APPCB",
+    "station_id": "site_260",
+    "lat": "17.72",
+    "long": "83.3",
+    "name": "GVM Corporation, Visakhapatnam - APPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Jhansi",
+    "station": "Shivaji Nagar, Jhansi - UPPCB",
+    "station_id": "site_5583",
+    "lat": "25.4547",
+    "long": "78.6039",
+    "name": "Shivaji Nagar, Jhansi - UPPCB"
+  },
+  {
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "station": "Sector-25, Chandigarh - CPCC",
+    "station_id": "site_5127",
+    "lat": "30.751462",
+    "long": "76.762879",
+    "name": "Sector-25, Chandigarh - CPCC"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Muzaffarnagar",
+    "station": "New Mandi, Muzaffarnagar - UPPCB",
+    "station_id": "site_1550",
+    "lat": "29.4723508",
+    "long": "77.7194031",
+    "name": "New Mandi, Muzaffarnagar - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Central School, Lucknow - CPCB",
+    "station_id": "site_272",
+    "lat": "26.8821003",
+    "long": "80.9302753",
+    "name": "Central School, Lucknow - CPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Lalbagh, Lucknow - CPCB",
+    "station_id": "site_277",
+    "lat": "26.8458805",
+    "long": "80.9365541",
+    "name": "Lalbagh, Lucknow - CPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Fort William, Kolkata - WBPCB",
+    "station_id": "site_5110",
+    "lat": "22.556640",
+    "long": "88.342674",
+    "name": "Fort William, Kolkata - WBPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "IHBAS, Dilshad Garden, Delhi - CPCB",
+    "station_id": "site_114",
+    "lat": "28.6811736",
+    "long": "77.3025234",
+    "name": "IHBAS, Dilshad Garden, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Sirifort, Delhi - CPCB",
+    "station_id": "site_119",
+    "lat": "28.5504249",
+    "long": "77.2159377",
+    "name": "Sirifort, Delhi - CPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Howrah",
+    "station": "Padmapukur, Howrah - WBPCB",
+    "station_id": "site_1416",
+    "lat": "22.5687319",
+    "long": "88.2797276",
+    "name": "Padmapukur, Howrah - WBPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Ambala",
+    "station": "Patti Mehar, Ambala - HSPCB",
+    "station_id": "site_5052",
+    "lat": "30.379589",
+    "long": "76.778328",
+    "name": "Patti Mehar, Ambala - HSPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Rabindra Bharati University, Kolkata - WBPCB",
+    "station_id": "site_296",
+    "lat": "22.627847",
+    "long": "88.380669",
+    "name": "Rabindra Bharati University, Kolkata - WBPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Vivek Vihar, Delhi - DPCC",
+    "station_id": "site_1435",
+    "lat": "28.672342",
+    "long": "77.315260",
+    "name": "Vivek Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Jahangirpuri, Delhi - DPCC",
+    "station_id": "site_1423",
+    "lat": "28.732820",
+    "long": "77.170633",
+    "name": "Jahangirpuri, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Rohini, Delhi - DPCC",
+    "station_id": "site_1430",
+    "lat": "28.732528",
+    "long": "77.119920",
+    "name": "Rohini, Delhi - DPCC"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "BWSSB Kadabesanahalli, Bengaluru - CPCB",
+    "station_id": "site_164",
+    "lat": "12.9352049",
+    "long": "77.6814488",
+    "name": "BWSSB Kadabesanahalli, Bengaluru - CPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Pithampur",
+    "station": "Sector-2 Industrial Area, Pithampur - MPPCB",
+    "station_id": "site_1402",
+    "lat": "22.624758",
+    "long": "75.675238",
+    "name": "Sector-2 Industrial Area, Pithampur - MPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "station": "More Chowk Waluj, Aurangabad - MPCB",
+    "station_id": "site_198",
+    "lat": "19.8389439",
+    "long": "75.244448",
+    "name": "More Chowk Waluj, Aurangabad - MPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Vatva",
+    "station": "Phase-4 GIDC, Vatva - GPCB",
+    "station_id": "site_5067",
+    "lat": "22.969611",
+    "long": "72.643500",
+    "name": "Phase-4 GIDC, Vatva - GPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Panipat",
+    "station": "Sector-18, Panipat - HSPCB",
+    "station_id": "site_5048",
+    "lat": "29.497973",
+    "long": "76.993331",
+    "name": "Sector-18, Panipat - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Kurukshetra ",
+    "station": "Sector-7, Kurukshetra - HSPCB",
+    "station_id": "site_5043",
+    "lat": "29.966942",
+    "long": "76.875879",
+    "name": "Sector-7, Kurukshetra - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Mandikhera",
+    "station": "General Hospital, Mandikhera - HSPCB",
+    "station_id": "site_5055",
+    "lat": "27.9002",
+    "long": "76.9938",
+    "name": "General Hospital, Mandikhera - HSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Kalyan",
+    "station": "Khadakpada, Kalyan - MPCB",
+    "station_id": "site_5118",
+    "lat": "19.25292",
+    "long": "73.142019",
+    "name": "Khadakpada, Kalyan - MPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Mysuru",
+    "station": "Hebbal 1st Stage, Mysuru - KSPCB",
+    "station_id": "site_5125",
+    "lat": "12.21041",
+    "long": "76.37376",
+    "name": "Hebbal 1st Stage, Mysuru - KSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Vile Parle West, Mumbai - MPCB",
+    "station_id": "site_5106",
+    "lat": "19.10861",
+    "long": "72.83622",
+    "name": "Vile Parle West, Mumbai - MPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Amritsar",
+    "station": "Golden Temple, Amritsar - PPCB",
+    "station_id": "site_256",
+    "lat": "31.620000",
+    "long": "74.876512",
+    "name": "Golden Temple, Amritsar - PPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Jalandhar",
+    "station": "Civil Line, Jalandhar - PPCB",
+    "station_id": "site_1438",
+    "lat": "31.321907",
+    "long": "75.578914",
+    "name": "Civil Line, Jalandhar - PPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "station": "Vidayagiri, Bagalkot - KSPCB",
+    "station_id": "site_5264",
+    "lat": "16.172806",
+    "long": "75.659694",
+    "name": "Vidayagiri, Bagalkot - KSPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Kannur",
+    "station": "Thavakkara, Kannur - Kerala PCB",
+    "station_id": "site_5276",
+    "lat": "11.875000",
+    "long": "75.373200",
+    "name": "Thavakkara, Kannur - Kerala PCB"
+  },
+  {
+    "state": "Mizoram",
+    "city": "Aizawl",
+    "station": "Sikulpuikawn, Aizawl - Mizoram PCB",
+    "station_id": "site_5346",
+    "lat": "23.7176342",
+    "long": "92.7192841",
+    "name": "Sikulpuikawn, Aizawl - Mizoram PCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Kota",
+    "station": "Shrinath Puram, Kota - RSPCB",
+    "station_id": "site_1394",
+    "lat": "25.14389",
+    "long": "75.821256",
+    "name": "Shrinath Puram, Kota - RSPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Kollam",
+    "station": "Polayathode, Kollam - Kerala PCB",
+    "station_id": "site_5334",
+    "lat": "8.8787",
+    "long": "76.6073",
+    "name": "Polayathode, Kollam - Kerala PCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Kozhikode",
+    "station": "Palayam, Kozhikode - Kerala PCB",
+    "station_id": "site_5271",
+    "lat": "11.249077",
+    "long": "75.784371",
+    "name": "Palayam, Kozhikode - Kerala PCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Kalaburagi",
+    "station": "Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",
+    "station_id": "site_1565",
+    "lat": "17.321993",
+    "long": "76.822628",
+    "name": "Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "station": "Pallavpuram Phase 2, Meerut - UPPCB",
+    "station_id": "site_5257",
+    "lat": "29.063510",
+    "long": "77.709723",
+    "name": "Pallavpuram Phase 2, Meerut - UPPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Sagar",
+    "station": "Deen Dayal Nagar, Sagar - MPPCB",
+    "station_id": "site_5269",
+    "lat": "23.8640158",
+    "long": "78.80289321",
+    "name": "Deen Dayal Nagar, Sagar - MPPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Durgapur",
+    "station": "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",
+    "station_id": "site_299",
+    "lat": "23.5404352",
+    "long": "87.2892225",
+    "name": "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Bapuji Nagar, Bengaluru - KSPCB",
+    "station_id": "site_1553",
+    "lat": "12.951913",
+    "long": "77.539784",
+    "name": "Bapuji Nagar, Bengaluru - KSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "station": "Sanjay Nagar, Ghaziabad - UPPCB",
+    "station_id": "site_5081",
+    "lat": "28.685382",
+    "long": "77.453839",
+    "name": "Sanjay Nagar, Ghaziabad - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Palwal ",
+    "station": "Shyam Nagar, Palwal - HSPCB",
+    "station_id": "site_5050",
+    "lat": "28.1485564",
+    "long": "77.3320667",
+    "name": "Shyam Nagar, Palwal - HSPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "SAC ISRO Bopal, Ahmedabad - IITM",
+    "station_id": "site_5454",
+    "lat": "23.041137",
+    "long": "72.456691",
+    "name": "SAC ISRO Bopal, Ahmedabad - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "station": "Motilal Nehru NIT, Prayagraj - UPPCB",
+    "station_id": "site_5459",
+    "lat": "25.494",
+    "long": "81.863",
+    "name": "Motilal Nehru NIT, Prayagraj - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "station": "Jhunsi, Prayagraj - UPPCB",
+    "station_id": "site_5461",
+    "lat": "25.425602",
+    "long": "81.917152",
+    "name": "Jhunsi, Prayagraj - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Faridabad",
+    "station": "Sector 30, Faridabad - HSPCB",
+    "station_id": "site_5341",
+    "lat": "28.4417",
+    "long": "77.3217",
+    "name": "Sector 30, Faridabad - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Charkhi Dadri",
+    "station": "Mini Secretariat, Charkhi Dadri - HSPCB",
+    "station_id": "site_5339",
+    "lat": "28.593883",
+    "long": "76.270653",
+    "name": "Mini Secretariat, Charkhi Dadri - HSPCB"
+  },
+  {
+    "state": "Tripura",
+    "city": "Agartala",
+    "station": "Kunjaban, Agartala - Tripura SPCB",
+    "station_id": "site_5377",
+    "lat": "23.8628276",
+    "long": "91.2887362",
+    "name": "Kunjaban, Agartala - Tripura SPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Madikeri",
+    "station": "Stuart Hill, Madikeri - KSPCB",
+    "station_id": "site_5391",
+    "lat": "12.415911",
+    "long": "75.735050",
+    "name": "Stuart Hill, Madikeri - KSPCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Kodungaiyur, Chennai - TNPCB",
+    "station_id": "site_5365",
+    "lat": "13.1278",
+    "long": "80.2642",
+    "name": "Kodungaiyur, Chennai - TNPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Deonar, Mumbai - IITM",
+    "station_id": "site_5396",
+    "lat": "19.04946",
+    "long": "72.9230",
+    "name": "Deonar, Mumbai - IITM"
+  },
+  {
+    "state": "Puducherry",
+    "city": "Puducherry",
+    "station": "Jawahar Nagar, Puducherry - PPCC",
+    "station_id": "site_5423",
+    "lat": "11.9309",
+    "long": "79.8027",
+    "name": "Jawahar Nagar, Puducherry - PPCC"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Revenue Colony-Shivajinagar, Pune - IITM",
+    "station_id": "site_5409",
+    "lat": "18.530085",
+    "long": "73.849598",
+    "name": "Revenue Colony-Shivajinagar, Pune - IITM"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Mhada Colony, Pune - IITM",
+    "station_id": "site_5404",
+    "lat": "18.573040",
+    "long": "73.927715",
+    "name": "Mhada Colony, Pune - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "station": "IITK, Kanpur - IITK",
+    "station_id": "site_5416",
+    "lat": "26.511739",
+    "long": "80.235136",
+    "name": "IITK, Kanpur - IITK"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Bawana, Delhi - DPCC",
+    "station_id": "site_1560",
+    "lat": "28.776200",
+    "long": "77.051074",
+    "name": "Bawana, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Alipur, Delhi - DPCC",
+    "station_id": "site_5024",
+    "lat": "28.815329",
+    "long": "77.153010",
+    "name": "Alipur, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "North Campus, DU, Delhi - IMD",
+    "station_id": "site_105",
+    "lat": "28.6573814",
+    "long": "77.1585447",
+    "name": "North Campus, DU, Delhi - IMD"
+  },
+  {
+    "state": "Chhattisgarh",
+    "city": "Bhilai",
+    "station": "Civic Center, Bhilai - Bhilai Steel Plant",
+    "station_id": "site_5536",
+    "lat": "21.185571",
+    "long": "81.343175",
+    "name": "Civic Center, Bhilai - Bhilai Steel Plant"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Borivali East, Mumbai - MPCB",
+    "station_id": "site_5113",
+    "lat": "19.2243333",
+    "long": "72.8658113",
+    "name": "Borivali East, Mumbai - MPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Gaya",
+    "station": "Kareemganj, Gaya - BSPCB",
+    "station_id": "site_5548",
+    "lat": "24.792403",
+    "long": "84.992416",
+    "name": "Kareemganj, Gaya - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Manguraha",
+    "station": "Forest Rest House, Manguraha - BSPCB",
+    "station_id": "site_5550",
+    "lat": "25.357288",
+    "long": "84.107844",
+    "name": "Forest Rest House, Manguraha - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Sasaram",
+    "station": "Dada Peer, Sasaram - BSPCB",
+    "station_id": "site_5485",
+    "lat": "24.952822",
+    "long": "84.002396",
+    "name": "Dada Peer, Sasaram - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Motihari",
+    "station": "Gandak Colony, Motihari - BSPCB",
+    "station_id": "site_5478",
+    "lat": "26.63086",
+    "long": "84.90051",
+    "name": "Gandak Colony, Motihari - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Firozabad",
+    "station": "Nagla Bhau, Firozabad - UPPCB",
+    "station_id": "site_5480",
+    "lat": "27.168897",
+    "long": "78.376960",
+    "name": "Nagla Bhau, Firozabad - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Kanpur",
+    "station": "FTI Kidwai Nagar, Kanpur - UPPCB",
+    "station_id": "site_5500",
+    "lat": "26.428282",
+    "long": "80.327067",
+    "name": "FTI Kidwai Nagar, Kanpur - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Moradabad",
+    "station": "Jigar Colony, Moradabad - UPPCB",
+    "station_id": "site_5555",
+    "lat": "28.856664",
+    "long": "78.772638",
+    "name": "Jigar Colony, Moradabad - UPPCB"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Rajamahendravaram",
+    "station": "Anand Kala Kshetram, Rajamahendravaram - APPCB",
+    "station_id": "site_1399",
+    "lat": "16.9872867",
+    "long": "81.7363176",
+    "name": "Anand Kala Kshetram, Rajamahendravaram - APPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Bhagalpur",
+    "station": "DM Office_Kachari Chowk, Bhagalpur - BSPCB",
+    "station_id": "site_5543",
+    "lat": "25.251013",
+    "long": "86.989001",
+    "name": "DM Office_Kachari Chowk, Bhagalpur - BSPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "ITO, Delhi - CPCB",
+    "station_id": "site_117",
+    "lat": "28.628624",
+    "long": "77.241060",
+    "name": "ITO, Delhi - CPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "station": "Collectorate, Jodhpur - RSPCB",
+    "station_id": "site_136",
+    "lat": "26.268249",
+    "long": "73.0193853",
+    "name": "Collectorate, Jodhpur - RSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Silk Board, Bengaluru - KSPCB",
+    "station_id": "site_1558",
+    "lat": "12.917348",
+    "long": "77.622813",
+    "name": "Silk Board, Bengaluru - KSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Colaba, Mumbai - MPCB",
+    "station_id": "site_5120",
+    "lat": "18.910000",
+    "long": "72.820000",
+    "name": "Colaba, Mumbai - MPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Satna",
+    "station": "Bandhavgar Colony, Satna - Birla Cement",
+    "station_id": "site_1433",
+    "lat": "24.58434363",
+    "long": "80.8549414",
+    "name": "Bandhavgar Colony, Satna - Birla Cement"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "ICRISAT Patancheru, Hyderabad - TSPCB",
+    "station_id": "site_251",
+    "lat": "17.518400",
+    "long": "78.278777",
+    "name": "ICRISAT Patancheru, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "Sanathnagar, Hyderabad - TSPCB",
+    "station_id": "site_294",
+    "lat": "17.4559458",
+    "long": "78.4332152",
+    "name": "Sanathnagar, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Sanjay Palace, Agra - UPPCB",
+    "station_id": "site_307",
+    "lat": "27.19865833",
+    "long": "78.00598056",
+    "name": "Sanjay Palace, Agra - UPPCB"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "IDA Pashamylaram, Hyderabad - TSPCB",
+    "station_id": "site_275",
+    "lat": "17.5316895",
+    "long": "78.218939",
+    "name": "IDA Pashamylaram, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Solapur",
+    "station": "Solapur, Solapur - MPCB",
+    "station_id": "site_302",
+    "lat": "17.6599188",
+    "long": "75.9063906",
+    "name": "Solapur, Solapur - MPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "BTM Layout, Bengaluru - CPCB",
+    "station_id": "site_162",
+    "lat": "12.9135218",
+    "long": "77.5950804",
+    "name": "BTM Layout, Bengaluru - CPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Greater Noida",
+    "station": "Knowledge Park - III, Greater Noida - UPPCB",
+    "station_id": "site_1541",
+    "lat": "28.47272",
+    "long": "77.482000",
+    "name": "Knowledge Park - III, Greater Noida - UPPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Howrah",
+    "station": "Belur Math, Howrah - WBPCB",
+    "station_id": "site_5101",
+    "lat": "22.629801",
+    "long": "88.352017",
+    "name": "Belur Math, Howrah - WBPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "R K Puram, Delhi - DPCC",
+    "station_id": "site_124",
+    "lat": "28.563262",
+    "long": "77.186937",
+    "name": "R K Puram, Delhi - DPCC"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Siliguri",
+    "station": "Ward-32 Bapupara, Siliguri - WBPCB",
+    "station_id": "site_1419",
+    "lat": "26.6883049",
+    "long": "88.412668",
+    "name": "Ward-32 Bapupara, Siliguri - WBPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Ballygunge, Kolkata - WBPCB",
+    "station_id": "site_5238",
+    "lat": "22.5367507",
+    "long": "88.3638022",
+    "name": "Ballygunge, Kolkata - WBPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Faridabad",
+    "station": "Sector- 16A, Faridabad - HSPCB",
+    "station_id": "site_263",
+    "lat": "28.4088421",
+    "long": "77.3099081",
+    "name": "Sector- 16A, Faridabad - HSPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Dr. Karni Singh Shooting Range, Delhi - DPCC",
+    "station_id": "site_1421",
+    "lat": "28.498571",
+    "long": "77.264840",
+    "name": "Dr. Karni Singh Shooting Range, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Narela, Delhi - DPCC",
+    "station_id": "site_1426",
+    "lat": "28.822836",
+    "long": "77.101981",
+    "name": "Narela, Delhi - DPCC"
+  },
+  {
+    "state": "Himachal Pradesh",
+    "city": "Baddi",
+    "station": "HIMUDA Complex Phase-1, Baddi - HPPCB",
+    "station_id": "site_5586",
+    "lat": "30.943887",
+    "long": "76.801991",
+    "name": "HIMUDA Complex Phase-1, Baddi - HPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Moradabad",
+    "station": "Lajpat Nagar, Moradabad - UPPCB",
+    "station_id": "site_1398",
+    "lat": "28.825341",
+    "long": "78.7213009",
+    "name": "Lajpat Nagar, Moradabad - UPPCB"
+  },
+  {
+    "state": "Assam",
+    "city": "Guwahati",
+    "station": "Railway Colony, Guwahati - APCB",
+    "station_id": "site_5073",
+    "lat": "26.181742",
+    "long": "91.78063",
+    "name": "Railway Colony, Guwahati - APCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Jabalpur",
+    "station": "Marhatal, Jabalpur - MPPCB",
+    "station_id": "site_5249",
+    "lat": "23.168606",
+    "long": "79.932247",
+    "name": "Marhatal, Jabalpur - MPPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Eloor",
+    "station": "Udyogamandal, Eloor - Kerala PCB",
+    "station_id": "site_5105",
+    "lat": "10.073232",
+    "long": "76.302765",
+    "name": "Udyogamandal, Eloor - Kerala PCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Powai, Mumbai - MPCB",
+    "station_id": "site_5112",
+    "lat": "19.137500",
+    "long": "72.915056",
+    "name": "Powai, Mumbai - MPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Patiala",
+    "station": "Model Town, Patiala - PPCB",
+    "station_id": "site_1437",
+    "lat": "30.349388",
+    "long": "76.366642",
+    "name": "Model Town, Patiala - PPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "station": "Sector-10, Gandhinagar - GPCB",
+    "station_id": "site_5066",
+    "lat": "23.221714",
+    "long": "72.654328",
+    "name": "Sector-10, Gandhinagar - GPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Gaya",
+    "station": "SFTI Kusdihra, Gaya - BSPCB",
+    "station_id": "site_5338",
+    "lat": "24.762518",
+    "long": "84.982348",
+    "name": "SFTI Kusdihra, Gaya - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "Samanpura, Patna - BSPCB",
+    "station_id": "site_5263",
+    "lat": "25.596727",
+    "long": "85.085624",
+    "name": "Samanpura, Patna - BSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Chamarajanagar",
+    "station": "Urban, Chamarajanagar - KSPCB",
+    "station_id": "site_5124",
+    "lat": "11.55358",
+    "long": "76.55521",
+    "name": "Urban, Chamarajanagar - KSPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Kochi",
+    "station": "Vyttila, Kochi - Kerala PCB",
+    "station_id": "site_5270",
+    "lat": "9.969447",
+    "long": "76.321186",
+    "name": "Vyttila, Kochi - Kerala PCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Manali Village, Chennai - TNPCB",
+    "station_id": "site_5092",
+    "lat": "13.1662",
+    "long": "80.2584",
+    "name": "Manali Village, Chennai - TNPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Hapur",
+    "station": "Anand Vihar, Hapur - UPPCB",
+    "station_id": "site_5023",
+    "lat": "28.725645",
+    "long": "77.749675",
+    "name": "Anand Vihar, Hapur - UPPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Mandi Gobindgarh",
+    "station": "RIMT University, Mandi Gobindgarh - PPCB",
+    "station_id": "site_255",
+    "lat": "30.649961",
+    "long": "76.331442",
+    "name": "RIMT University, Mandi Gobindgarh - PPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Chandkheda, Ahmedabad - IITM",
+    "station_id": "site_5453",
+    "lat": "23.107969",
+    "long": "72.574648",
+    "name": "Chandkheda, Ahmedabad - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "B R Ambedkar University, Lucknow - UPPCB",
+    "station_id": "site_5460",
+    "lat": "26.766433",
+    "long": "80.927299",
+    "name": "B R Ambedkar University, Lucknow - UPPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "station": "GIFT City, Gandhinagar - IITM",
+    "station_id": "site_5458",
+    "lat": "23.163798",
+    "long": "72.677768",
+    "name": "GIFT City, Gandhinagar - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Lodhi Road, Delhi - IITM",
+    "station_id": "site_5395",
+    "lat": "28.588333",
+    "long": "77.221667",
+    "name": "Lodhi Road, Delhi - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Sector-3B Avas Vikas Colony, Agra - UPPCB",
+    "station_id": "site_5465",
+    "lat": "27.19412",
+    "long": "77.96237",
+    "name": "Sector-3B Avas Vikas Colony, Agra - UPPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Ratlam",
+    "station": "Shasthri Nagar, Ratlam - IPCA Lab",
+    "station_id": "site_5042",
+    "lat": "23.331731",
+    "long": "75.045981",
+    "name": "Shasthri Nagar, Ratlam - IPCA Lab"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "station": "Phool Bagh, Gwalior - Mondelez Ind. Food",
+    "station_id": "site_5275",
+    "lat": "26.210536",
+    "long": "78.171",
+    "name": "Phool Bagh, Gwalior - Mondelez Ind. Food"
+  },
+  {
+    "state": "Haryana",
+    "city": "Gurugram",
+    "station": "Sector-51, Gurugram - HSPCB",
+    "station_id": "site_5345",
+    "lat": "28.4227",
+    "long": "77.0667",
+    "name": "Sector-51, Gurugram - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Faridabad",
+    "station": "New Industrial Town, Faridabad - HSPCB",
+    "station_id": "site_5340",
+    "lat": "28.39072",
+    "long": "77.30059",
+    "name": "New Industrial Town, Faridabad - HSPCB"
+  },
+  {
+    "state": "Kerala",
+    "city": "Thrissur",
+    "station": "Corporation Ground, Thrissur - Kerala PCB",
+    "station_id": "site_5390",
+    "lat": "10.532400",
+    "long": "76.215900",
+    "name": "Corporation Ground, Thrissur - Kerala PCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Siddharth Nagar-Worli, Mumbai - IITM",
+    "station_id": "site_5403",
+    "lat": "19.000083",
+    "long": "72.813993",
+    "name": "Siddharth Nagar-Worli, Mumbai - IITM"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Royapuram, Chennai - TNPCB",
+    "station_id": "site_5364",
+    "lat": "13.1036",
+    "long": "80.2909",
+    "name": "Royapuram, Chennai - TNPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Davanagere",
+    "station": "Devaraj Urs Badavane, Davanagere - KSPCB",
+    "station_id": "site_5422",
+    "lat": "14.475800",
+    "long": "75.905200",
+    "name": "Devaraj Urs Badavane, Davanagere - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Koppal",
+    "station": "Diwator Nagar, Koppal - KSPCB",
+    "station_id": "site_5415",
+    "lat": "15.347630",
+    "long": "76.181767",
+    "name": "Diwator Nagar, Koppal - KSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Transport Nagar-Nigdi, Pune - IITM",
+    "station_id": "site_5408",
+    "lat": "18.664282",
+    "long": "73.763966",
+    "name": "Transport Nagar-Nigdi, Pune - IITM"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "MIT-Kothrud, Pune - IITM",
+    "station_id": "site_5410",
+    "lat": "18.517754",
+    "long": "73.8214883",
+    "name": "MIT-Kothrud, Pune - IITM"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Burari Crossing, Delhi - IMD",
+    "station_id": "site_104",
+    "lat": "28.7256504",
+    "long": "77.2011573",
+    "name": "Burari Crossing, Delhi - IMD"
+  },
+  {
+    "state": "Haryana",
+    "city": "Bhiwani",
+    "station": "H.B. Colony, Bhiwani - HSPCB",
+    "station_id": "site_5047",
+    "lat": "28.806223",
+    "long": "76.141105",
+    "name": "H.B. Colony, Bhiwani - HSPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Major Dhyan Chand National Stadium, Delhi - DPCC",
+    "station_id": "site_1425",
+    "lat": "28.611281",
+    "long": "77.237738",
+    "name": "Major Dhyan Chand National Stadium, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Lodhi Road, Delhi - IMD",
+    "station_id": "site_109",
+    "lat": "28.5918245",
+    "long": "77.2273074",
+    "name": "Lodhi Road, Delhi - IMD"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "station": "Sector - 62, Noida - IMD",
+    "station_id": "site_111",
+    "lat": "28.6245479",
+    "long": "77.3577104",
+    "name": "Sector - 62, Noida - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Anand Vihar, Delhi - DPCC",
+    "station_id": "site_301",
+    "lat": "28.647622",
+    "long": "77.3158090",
+    "name": "Anand Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Singrauli",
+    "station": "Suryakiran Bhawan NCL, Singrauli - MPPCB",
+    "station_id": "site_1401",
+    "lat": "24.108970",
+    "long": "82.645580",
+    "name": "Suryakiran Bhawan NCL, Singrauli - MPPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Kishanganj",
+    "station": "SDM Office_Khagra, Kishanganj - BSPCB",
+    "station_id": "site_5547",
+    "lat": "26.0881305",
+    "long": "87.93840336",
+    "name": "SDM Office_Khagra, Kishanganj - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Rajgir",
+    "station": "Dangi Tola, Rajgir - BSPCB",
+    "station_id": "site_5489",
+    "lat": "25.03280",
+    "long": "85.41948",
+    "name": "Dangi Tola, Rajgir - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Darbhanga",
+    "station": "Town Hall - Lal Bagh, Darbhanga - BSPCB",
+    "station_id": "site_5477",
+    "lat": "26.15146",
+    "long": "85.89342",
+    "name": "Town Hall - Lal Bagh, Darbhanga - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Moradabad",
+    "station": "Buddhi Vihar, Moradabad - UPPCB",
+    "station_id": "site_5554",
+    "lat": "28.83526",
+    "long": "78.74460",
+    "name": "Buddhi Vihar, Moradabad - UPPCB"
+  },
+  {
+    "state": "Chandigarh",
+    "city": "Chandigarh",
+    "station": "Sector 22, Chandigarh - CPCC",
+    "station_id": "site_5491",
+    "lat": "30.735567",
+    "long": "76.775714",
+    "name": "Sector 22, Chandigarh - CPCC"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Prayagraj",
+    "station": "Nagar Nigam, Prayagraj - UPPCB",
+    "station_id": "site_5484",
+    "lat": "25.44919916 ",
+    "long": "81.82735986 ",
+    "name": "Nagar Nigam, Prayagraj - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Gorakhpur",
+    "station": "Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",
+    "station_id": "site_5472",
+    "lat": "26.730136",
+    "long": "83.433859",
+    "name": "Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Rupnagar",
+    "station": "Ratanpura, Rupnagar - Ambuja Cements",
+    "station_id": "site_1538",
+    "lat": "31.0325454",
+    "long": "76.5623046",
+    "name": "Ratanpura, Rupnagar - Ambuja Cements"
+  },
+  {
+    "state": "Andhra Pradesh",
+    "city": "Amaravati",
+    "station": "Secretariat, Amaravati - APPCB",
+    "station_id": "site_1406",
+    "lat": "16.5150833",
+    "long": "80.5181667",
+    "name": "Secretariat, Amaravati - APPCB"
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "city": "Naharlagun",
+    "station": "Naharlagun, Naharlagun - APSPCB",
+    "station_id": "site_5446",
+    "lat": "27.103358",
+    "long": "93.679645",
+    "name": "Naharlagun, Naharlagun - APSPCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Alandur Bus Depot, Chennai - CPCB",
+    "station_id": "site_293",
+    "lat": "12.9099161",
+    "long": "80.1076538",
+    "name": "Alandur Bus Depot, Chennai - CPCB"
+  },
+  {
+    "state": "Meghalaya ",
+    "city": "Shillong",
+    "station": "Lumpyngngad, Shillong - Meghalaya PCB",
+    "station_id": "site_5131",
+    "lat": "25.5586",
+    "long": "91.8985",
+    "name": "Lumpyngngad, Shillong - Meghalaya PCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Gaya",
+    "station": "Collectorate, Gaya - BSPCB",
+    "station_id": "site_159",
+    "lat": "24.7955",
+    "long": "84.9994",
+    "name": "Collectorate, Gaya - BSPCB"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Manali, Chennai - CPCB",
+    "station_id": "site_306",
+    "lat": "13.164544",
+    "long": "80.26285",
+    "name": "Manali, Chennai - CPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Chikkaballapur",
+    "station": "Chikkaballapur Rural, Chikkaballapur - KSPCB",
+    "station_id": "site_1557",
+    "lat": "13.428828",
+    "long": "77.731418",
+    "name": "Chikkaballapur Rural, Chikkaballapur - KSPCB"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "Central University, Hyderabad - TSPCB",
+    "station_id": "site_262",
+    "lat": "17.460103",
+    "long": "78.334361",
+    "name": "Central University, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Buxar",
+    "station": "Central Jail, Buxar - BSPCB",
+    "station_id": "site_5542",
+    "lat": "25.555605",
+    "long": "83.950942",
+    "name": "Central Jail, Buxar - BSPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Bidhannagar, Kolkata - WBPCB",
+    "station_id": "site_5129",
+    "lat": "22.58157048",
+    "long": "88.41002457",
+    "name": "Bidhannagar, Kolkata - WBPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Howrah",
+    "station": "Ghusuri, Howrah - WBPCB",
+    "station_id": "site_274",
+    "lat": "22.611968",
+    "long": "88.347422",
+    "name": "Ghusuri, Howrah - WBPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Asansol",
+    "station": "Asansol Court Area, Asansol - WBPCB",
+    "station_id": "site_1418",
+    "lat": "23.685297",
+    "long": "86.945968",
+    "name": "Asansol Court Area, Asansol - WBPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Baghpat",
+    "station": "New Collectorate, Baghpat - UPPCB",
+    "station_id": "site_1569",
+    "lat": "28.974801",
+    "long": "77.213357",
+    "name": "New Collectorate, Baghpat - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Fatehabad",
+    "station": "Huda Sector, Fatehabad - HSPCB",
+    "station_id": "site_5054",
+    "lat": "29.503664",
+    "long": "75.467934",
+    "name": "Huda Sector, Fatehabad - HSPCB"
+  },
+  {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "station": "Zoo Park, Hyderabad - TSPCB",
+    "station_id": "site_298",
+    "lat": "17.349694",
+    "long": "78.451437",
+    "name": "Zoo Park, Hyderabad - TSPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Ashok Vihar, Delhi - DPCC",
+    "station_id": "site_1420",
+    "lat": "28.695381",
+    "long": "77.181665",
+    "name": "Ashok Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Sonia Vihar, Delhi - DPCC",
+    "station_id": "site_1432",
+    "lat": "28.710508",
+    "long": "77.249485",
+    "name": "Sonia Vihar, Delhi - DPCC"
+  },
+  {
+    "state": "Haryana",
+    "city": "Rohtak",
+    "station": "MD University, Rohtak - HSPCB",
+    "station_id": "site_147",
+    "lat": "28.52123",
+    "long": "76.37138",
+    "name": "MD University, Rohtak - HSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "station": "Adarsh Nagar, Jaipur - RSPCB",
+    "station_id": "site_1393",
+    "lat": "26.902909",
+    "long": "75.836858",
+    "name": "Adarsh Nagar, Jaipur - RSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Baghpat",
+    "station": "Sardar Patel Inter College, Baghpat - UPPCB",
+    "station_id": "site_5585",
+    "lat": "28.964949",
+    "long": "77.278761",
+    "name": "Sardar Patel Inter College, Baghpat - UPPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Panchkula",
+    "station": "Sector-6, Panchkula - HSPCB ",
+    "station_id": "site_161",
+    "lat": "30.7057778",
+    "long": "76.8531805555555",
+    "name": "Sector-6, Panchkula - HSPCB "
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Thane",
+    "station": "Pimpleshwar Mandir, Thane - MPCB",
+    "station_id": "site_305",
+    "lat": "19.192056",
+    "long": "72.9585188",
+    "name": "Pimpleshwar Mandir, Thane - MPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Ujjain",
+    "station": "Mahakaleshwar Temple, Ujjain - MPPCB",
+    "station_id": "site_1400",
+    "lat": "23.182719 ",
+    "long": "75.768218 ",
+    "name": "Mahakaleshwar Temple, Ujjain - MPPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ankleshwar",
+    "station": "GIDC, Ankleshwar - GPCB",
+    "station_id": "site_5065",
+    "lat": "21.613267",
+    "long": "73.010555",
+    "name": "GIDC, Ankleshwar - GPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Kurla, Mumbai - MPCB",
+    "station_id": "site_5104",
+    "lat": "19.0863",
+    "long": "72.8888",
+    "name": "Kurla, Mumbai - MPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Nandesari",
+    "station": "GIDC, Nandesari - Nandesari Ind. Association",
+    "station_id": "site_5274",
+    "lat": "22.410802",
+    "long": "73.097923",
+    "name": "GIDC, Nandesari - Nandesari Ind. Association"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Ajmer",
+    "station": "Civil Lines,  Ajmer - RSPCB",
+    "station_id": "site_1392",
+    "lat": "26.470859",
+    "long": "74.646594",
+    "name": "Civil Lines,  Ajmer - RSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Vijayapura",
+    "station": "Ibrahimpur, Vijayapura - KSPCB",
+    "station_id": "site_5267",
+    "lat": "16.802639",
+    "long": "75.722694",
+    "name": "Ibrahimpur, Vijayapura - KSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Patna",
+    "station": "Rajbansi Nagar, Patna - BSPCB",
+    "station_id": "site_5262",
+    "lat": "25.599486",
+    "long": "85.113666",
+    "name": "Rajbansi Nagar, Patna - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Hajipur",
+    "station": "Industrial Area, Hajipur - BSPCB",
+    "station_id": "site_5337",
+    "lat": "25.697189",
+    "long": "85.245900",
+    "name": "Industrial Area, Hajipur - BSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Udaipur",
+    "station": "Ashok Nagar, Udaipur - RSPCB",
+    "station_id": "site_1397",
+    "lat": "24.5886166",
+    "long": "73.6321397",
+    "name": "Ashok Nagar, Udaipur - RSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Meerut",
+    "station": "Jai Bhim Nagar, Meerut - UPPCB",
+    "station_id": "site_5109",
+    "lat": "28.9535882",
+    "long": "77.7622941",
+    "name": "Jai Bhim Nagar, Meerut - UPPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Haldia",
+    "station": "Haldia, Haldia - WBPCB",
+    "station_id": "site_300",
+    "lat": "22.06047",
+    "long": "88.109737",
+    "name": "Haldia, Haldia - WBPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Indore",
+    "station": "Chhoti Gwaltoli, Indore - MPPCB",
+    "station_id": "site_5248",
+    "lat": "22.4310",
+    "long": "75.5213",
+    "name": "Chhoti Gwaltoli, Indore - MPPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "station": "Jayanagar 5th Block, Bengaluru - KSPCB",
+    "station_id": "site_1556",
+    "lat": "12.920984",
+    "long": "77.584908",
+    "name": "Jayanagar 5th Block, Bengaluru - KSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Narnaul",
+    "station": "Shastri Nagar, Narnaul - HSPCB",
+    "station_id": "site_5053",
+    "lat": "28.060249",
+    "long": "76.113115",
+    "name": "Shastri Nagar, Narnaul - HSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Muzaffarpur",
+    "station": "Muzaffarpur Collectorate, Muzaffarpur - BSPCB",
+    "station_id": "site_158",
+    "lat": "26.1209",
+    "long": "85.3647",
+    "name": "Muzaffarpur Collectorate, Muzaffarpur - BSPCB"
+  },
+  {
+    "state": "Madhya Pradesh",
+    "city": "Katni",
+    "station": "Gole Bazar, Katni - MPPCB",
+    "station_id": "site_5250",
+    "lat": "23.50016",
+    "long": "80.23284",
+    "name": "Gole Bazar, Katni - MPPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Ramanagara",
+    "station": "Vijay Nagar, Ramanagara - KSPCB",
+    "station_id": "site_5255",
+    "lat": "12.733409",
+    "long": "77.298051",
+    "name": "Vijay Nagar, Ramanagara - KSPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Khanna",
+    "station": "Kalal Majra, Khanna - PPCB",
+    "station_id": "site_1450",
+    "lat": "30.736056 ",
+    "long": "76.209694",
+    "name": "Kalal Majra, Khanna - PPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Kaithal",
+    "station": "Rishi Nagar, Kaithal - HSPCB",
+    "station_id": "site_5072",
+    "lat": "29.8006",
+    "long": "76.4155",
+    "name": "Rishi Nagar, Kaithal - HSPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "station": "Raikhad, Ahmedabad - IITM",
+    "station_id": "site_5452",
+    "lat": "23.020509",
+    "long": "72.579261",
+    "name": "Raikhad, Ahmedabad - IITM"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "station": "Manoharpur, Agra - UPPCB",
+    "station_id": "site_5464",
+    "lat": "27.23711",
+    "long": "78.01936",
+    "name": "Manoharpur, Agra - UPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Navi Mumbai",
+    "station": "Airoli, Navi Mumbai - MPCB",
+    "station_id": "site_261",
+    "lat": "19.1494",
+    "long": "72.9986",
+    "name": "Airoli, Navi Mumbai - MPCB"
+  },
+  {
+    "state": "Gujarat",
+    "city": "Gandhinagar",
+    "station": "IIPHG Lekawada, Gandhinagar - IITM",
+    "station_id": "site_5457",
+    "lat": "23.243639",
+    "long": "72.68994",
+    "name": "IIPHG Lekawada, Gandhinagar - IITM"
+  },
+  {
+    "state": "Haryana",
+    "city": "Gurugram",
+    "station": "Teri Gram, Gurugram - HSPCB",
+    "station_id": "site_5344",
+    "lat": "28.4275",
+    "long": "77.1465",
+    "name": "Teri Gram, Gurugram - HSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Chakala-Andheri East, Mumbai - IITM",
+    "station_id": "site_5399",
+    "lat": "19.11074",
+    "long": "72.86084",
+    "name": "Chakala-Andheri East, Mumbai - IITM"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Malad West, Mumbai - IITM",
+    "station_id": "site_5402",
+    "lat": "19.19709",
+    "long": "72.82204",
+    "name": "Malad West, Mumbai - IITM"
+  },
+  {
+    "state": "Bihar",
+    "city": "Muzaffarpur",
+    "station": "Buddha Colony, Muzaffarpur - BSPCB",
+    "station_id": "site_5370",
+    "lat": "26.11442",
+    "long": "85.39813",
+    "name": "Buddha Colony, Muzaffarpur - BSPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "station": "Mazgaon, Mumbai - IITM",
+    "station_id": "site_5394",
+    "lat": "18.96702",
+    "long": "72.84214",
+    "name": "Mazgaon, Mumbai - IITM"
+  },
+  {
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "station": "Perungudi, Chennai - TNPCB",
+    "station_id": "site_5363",
+    "lat": "12.9533",
+    "long": "80.2357",
+    "name": "Perungudi, Chennai - TNPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Hadapsar, Pune - IITM",
+    "station_id": "site_5407",
+    "lat": "18.501793",
+    "long": "73.927532",
+    "name": "Hadapsar, Pune - IITM"
+  },
+  {
+    "state": "Nagaland",
+    "city": "Kohima",
+    "station": "PWD Juction, Kohima - NPCB",
+    "station_id": "site_5375",
+    "lat": "25.6635413",
+    "long": "94.0989878",
+    "name": "PWD Juction, Kohima - NPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Mangalore",
+    "station": "Kadri, Mangalore - KSPCB",
+    "station_id": "site_5421",
+    "lat": "12.889250",
+    "long": "74.853000",
+    "name": "Kadri, Mangalore - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Udupi",
+    "station": "Brahmagiri, Udupi - KSPCB",
+    "station_id": "site_5433",
+    "lat": "13.34194444",
+    "long": "74.74694444",
+    "name": "Brahmagiri, Udupi - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Gadag",
+    "station": "Panchal Nagar, Gadag - KSPCB",
+    "station_id": "site_5419",
+    "lat": "15.411456",
+    "long": "75.638133",
+    "name": "Panchal Nagar, Gadag - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Raichur",
+    "station": "Haji Colony, Raichur - KSPCB",
+    "station_id": "site_5414",
+    "lat": "16.208139",
+    "long": "77.348417",
+    "name": "Haji Colony, Raichur - KSPCB"
+  },
+  {
+    "state": "Karnataka",
+    "city": "Kolar",
+    "station": "Tamaka Ind. Area, Kolar - KSPCB",
+    "station_id": "site_1551",
+    "lat": "13.1276288",
+    "long": "78.1570122",
+    "name": "Tamaka Ind. Area, Kolar - KSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Sonipat",
+    "station": "Murthal, Sonipat - HSPCB",
+    "station_id": "site_5041",
+    "lat": "29.027200",
+    "long": "77.062100",
+    "name": "Murthal, Sonipat - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Manesar",
+    "station": "Sector-2 IMT, Manesar - HSPCB",
+    "station_id": "site_5039",
+    "lat": "28.360699",
+    "long": "76.936090",
+    "name": "Sector-2 IMT, Manesar - HSPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Aya Nagar, Delhi - IMD",
+    "station_id": "site_108",
+    "lat": "28.4706914",
+    "long": "77.1099364",
+    "name": "Aya Nagar, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "CRRI Mathura Road, Delhi - IMD",
+    "station_id": "site_103",
+    "lat": "28.5512005",
+    "long": "77.2735737",
+    "name": "CRRI Mathura Road, Delhi - IMD"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Pusa, Delhi - DPCC",
+    "station_id": "site_1563",
+    "lat": "28.639645",
+    "long": "77.146262",
+    "name": "Pusa, Delhi - DPCC"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "station": "Sector - 125, Noida - UPPCB",
+    "station_id": "site_153",
+    "lat": "28.5447608",
+    "long": "77.3231257",
+    "name": "Sector - 125, Noida - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Noida",
+    "station": "Sector-1, Noida - UPPCB",
+    "station_id": "site_5123",
+    "lat": "28.5898",
+    "long": "77.3101",
+    "name": "Sector-1, Noida - UPPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Bhagalpur",
+    "station": "Mayaganj, Bhagalpur - BSPCB",
+    "station_id": "site_5541",
+    "lat": "25.265194",
+    "long": "87.012947",
+    "name": "Mayaganj, Bhagalpur - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Katihar",
+    "station": "Mirchaibari, Katihar - BSPCB",
+    "station_id": "site_5546",
+    "lat": "25.560083",
+    "long": "87.553265",
+    "name": "Mirchaibari, Katihar - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Bettiah",
+    "station": "Kamalnath Nagar, Bettiah - BSPCB",
+    "station_id": "site_5476",
+    "lat": "26.80365",
+    "long": "84.51954",
+    "name": "Kamalnath Nagar, Bettiah - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Munger",
+    "station": "Town Hall, Munger - BSPCB",
+    "station_id": "site_5490",
+    "lat": "25.376776",
+    "long": "86.471523",
+    "name": "Town Hall, Munger - BSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Vrindavan",
+    "station": "Omex Eternity, Vrindavan - UPPCB",
+    "station_id": "site_5483",
+    "lat": "27.5714090",
+    "long": "77.6557570",
+    "name": "Omex Eternity, Vrindavan - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "station": "Bhelupur, Varanasi - UPPCB",
+    "station_id": "site_5469",
+    "lat": "25.301778",
+    "long": "82.996789",
+    "name": "Bhelupur, Varanasi - UPPCB"
+  },
+  {
+    "state": "Chhattisgarh",
+    "city": "Bilaspur",
+    "station": "Mangala, Bilaspur - NTPC",
+    "station_id": "site_5503",
+    "lat": "22.08815",
+    "long": "82.13737",
+    "name": "Mangala, Bilaspur - NTPC"
+  },
+  {
+    "state": "Bihar",
+    "city": "Araria",
+    "station": "Kharahiya Basti, Araria - BSPCB",
+    "station_id": "site_5539",
+    "lat": "26.146529",
+    "long": "87.454184",
+    "name": "Kharahiya Basti, Araria - BSPCB"
+  },
+  {
+    "state": "Bihar",
+    "city": "Siwan",
+    "station": "Chitragupta Nagar, Siwan - BSPCB",
+    "station_id": "site_5553",
+    "lat": "26.2271665",
+    "long": "84.3570427",
+    "name": "Chitragupta Nagar, Siwan - BSPCB"
+  },
+  {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "station": "Police Commissionerate, Jaipur - RSPCB",
+    "station_id": "site_134",
+    "lat": "26.9164092",
+    "long": "75.7994901",
+    "name": "Police Commissionerate, Jaipur - RSPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Firozabad",
+    "station": "Vibhab Nagar, Firozabad - UPPCB",
+    "station_id": "site_5584",
+    "lat": "27.1594",
+    "long": "78.3953",
+    "name": "Vibhab Nagar, Firozabad - UPPCB"
+  },
+  {
+    "state": "Punjab",
+    "city": "Bathinda",
+    "station": "Hardev Nagar, Bathinda - PPCB",
+    "station_id": "site_1549",
+    "lat": "30.233011",
+    "long": "74.907758",
+    "name": "Hardev Nagar, Bathinda - PPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Gomti Nagar, Lucknow - UPPCB",
+    "station_id": "site_5128",
+    "lat": "26.868120",
+    "long": "81.005119",
+    "name": "Gomti Nagar, Lucknow - UPPCB"
+  },
+  {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "station": "Karve Road, Pune - MPCB",
+    "station_id": "site_292",
+    "lat": "18.5011743",
+    "long": "73.8165527",
+    "name": "Karve Road, Pune - MPCB"
+  },
+  {
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "station": "Jadavpur, Kolkata - WBPCB",
+    "station_id": "site_5111",
+    "lat": "22.49929",
+    "long": "88.36917",
+    "name": "Jadavpur, Kolkata - WBPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "NSIT Dwarka, Delhi - CPCB",
+    "station_id": "site_115",
+    "lat": "28.60909",
+    "long": "77.0325413",
+    "name": "NSIT Dwarka, Delhi - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Mandir Marg, Delhi - DPCC",
+    "station_id": "site_122",
+    "lat": "28.636429",
+    "long": "77.201067",
+    "name": "Mandir Marg, Delhi - DPCC"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Nishant Ganj, Lucknow - UPPCB",
+    "station_id": "site_1405",
+    "lat": "26.871428",
+    "long": "80.957145",
+    "name": "Nishant Ganj, Lucknow - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "station": "Ardhali Bazar, Varanasi - UPPCB",
+    "station_id": "site_273",
+    "lat": "25.3505986",
+    "long": "82.9083074",
+    "name": "Ardhali Bazar, Varanasi - UPPCB"
+  },
+  {
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "station": "Talkatora District Industries Center, Lucknow - CPCB",
+    "station_id": "site_297",
+    "lat": "26.83399722",
+    "long": "80.8917361",
+    "name": "Talkatora District Industries Center, Lucknow - CPCB"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Jawaharlal Nehru Stadium, Delhi - DPCC",
+    "station_id": "site_1424",
+    "lat": "28.580280",
+    "long": "77.233829",
+    "name": "Jawaharlal Nehru Stadium, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Nehru Nagar, Delhi - DPCC",
+    "station_id": "site_1429",
+    "lat": "28.567890",
+    "long": "77.250515",
+    "name": "Nehru Nagar, Delhi - DPCC"
+  },
+  {
+    "state": "Delhi",
+    "city": "Delhi",
+    "station": "Patparganj, Delhi - DPCC",
+    "station_id": "site_1431",
+    "lat": "28.623763",
+    "long": "77.287209",
+    "name": "Patparganj, Delhi - DPCC"
+  },
+  {
+    "state": "Haryana",
+    "city": "Gurugram",
+    "station": "Vikas Sadan, Gurugram - HSPCB",
+    "station_id": "site_146",
+    "lat": "28.4501238",
+    "long": "77.0263051",
+    "name": "Vikas Sadan, Gurugram - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Yamuna Nagar",
+    "station": "Gobind Pura, Yamuna Nagar - HSPCB",
+    "station_id": "site_5046",
+    "lat": "30.1480566",
+    "long": "77.2893471",
+    "name": "Gobind Pura, Yamuna Nagar - HSPCB"
+  },
+  {
+    "state": "Haryana",
+    "city": "Ballabgarh",
+    "station": "Nathu Colony, Ballabgarh - HSPCB",
+    "station_id": "site_5060",
+    "lat": "28.3419248",
+    "long": "77.319699",
+    "name": "Nathu Colony, Ballabgarh - HSPCB"
+  },
+  {
+    "state": "Jharkhand",
+    "city": "Jorapokhar",
+    "station": "Tata Stadium, Jorapokhar - JSPCB",
+    "station_id": "site_254",
+    "lat": "23.707909",
+    "long": "86.414670",
+    "name": "Tata Stadium, Jorapokhar - JSPCB"
+  }
+]
