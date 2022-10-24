@@ -7,4 +7,4 @@ This study leverages the Ozone Monitoring Instrument (OMI) on board the NASA Aur
 
 Average OMI NO 2 is compared to represent ground based surface concentrations of NO2 in targeted cities. This study finds temporal consistency between column and surface NO2 in Indian cities in the states of Delhi, West Bengal, and Maharashtra (R-squared ~ 0.25-0.55). I also find that the NO2 during 2020-2021 has slightly reduced and is likely due to a reduction in the traffic during the COVID pandemic. A drill-down dashboard is built to visualize and filter the information for the roll-up analytics. This study helped visually correlate the OMI NO 2 and surface NO2 in different targeted cities in India.
 
-https://airanalytics.org
+https://airnalytics.org
